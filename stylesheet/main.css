@@ -12,6 +12,7 @@
 body {
 	font-family: sans-serif;
 	margin: 0px;
+	min-width: 480px;
 }
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
     padding: 0;
@@ -192,7 +193,6 @@ a:hover {
     background-color: #E85743;
     border-color: #E5533F;
 }
-@media (min-width: 961px)
 .recent-item {
     width: 30.20833%;
     float: left;
@@ -202,7 +202,7 @@ a:hover {
 .recent-item {
     width: 80.20833%;
     float: left;
-    margin-left: 1.5625%;
+/*    margin-left: 1.5625%;*/
     margin-right: 1.5625%;
     margin-left: 9.89583%;
     position: relative;
@@ -259,7 +259,7 @@ section.Snew2 {
 .Snew2-item {
 	width: 80.20833%;
 	float: left;
-	margin-left: 1.5625%;
+/*	margin-left: 1.5625%;*/
 	margin-right: 1.5625%;
 	margin-left: 9.89583%;
 	position: relative;
