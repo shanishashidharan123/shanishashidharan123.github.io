@@ -266,7 +266,9 @@ section.Snew2 {
 	margin-bottom: 2em;
 	border: 1px solid;
 	-webkit-transition: box-shadow 0.2s ease-in-out;
-	transition: box-shadow 0.2s ease-in-out
+	transition: box-shadow 0.2s ease-in-out;
+	background-size: cover;
+	background-position: left top;
 }
 @media (min-width: 577px) and (max-width: 960px) {
 .Snew2-item {
@@ -290,7 +292,8 @@ section.Snew2 {
 .Snew2-item:before {
 	content: "";
 	display: block;
-	padding-top: 100%
+	padding-top: 100%;
+	background: rgba(80, 76, 76, 0.84);
 }
 .Snew2-item-top {
 	position: absolute;
