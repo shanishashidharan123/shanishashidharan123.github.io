@@ -292,7 +292,7 @@ section.Snew2 {
 	content: "";
 	display: block;
 	padding-top: 100%;
-	background: rgba(244, 253, 255, 0.86);
+	background: rgba(244, 253, 255, 0.84);
 }
 .Snew2-item-top {
 	position: absolute;
@@ -328,7 +328,7 @@ section.Snew2 {
 	font-size: 14px;
 	font-family: "proxima-nova-alt", sans-serif;
 	font-style: normal;
-	font-weight: 600;
+	font-weight:700;
 	display: block;
 	text-transform: uppercase;
 	color:#1b9413 !important
@@ -468,7 +468,7 @@ section.Snew2 {
 }
 @media (min-width: 577px) and (max-width: 960px) {
 .team-member {
-	width: 30%;
+	width: 30% ;
 	float: left;
 	margin-right: 3.3333%
 }
