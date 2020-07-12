@@ -286,13 +286,13 @@ section.Snew2 {
 }
 }
 .Snew2-item * {
-	color: white
+	color: black
 }
 .Snew2-item:before {
 	content: "";
 	display: block;
 	padding-top: 100%;
-	background: rgba(80, 76, 76, 0.84);
+	background: rgba(255,255,255,0.84);
 }
 .Snew2-item-top {
 	position: absolute;
@@ -331,7 +331,7 @@ section.Snew2 {
 	font-weight: 400;
 	display: block;
 	text-transform: uppercase;
-	color: rgba(255,255,255,0.8) !important
+	color:rgb(29, 185, 10) !important
 }
 .Snew2-item-shape {
 	position: absolute;
