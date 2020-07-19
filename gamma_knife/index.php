@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Gamma Knife Surgery India</title>
+
+	<!-- Bootstrap -->
+	<link href="assets/css/bootstrap-4.2.1.css" rel="stylesheet">
+	<link href="assets/css/gks_stylesheet.css" rel="stylesheet">
+
+</head>
+
+<body>
+	<script src="js/jquery-3.3.1.min.js"></script>
+	<header class="container">
+		<nav class="d-flex justify-content-between align-items-end flex-wrap nav1">
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar_GKSI" aria-controls="navbar_GKSI" aria-expanded="false" aria-label="Toggle navigation">
+       <span class="navbar-toggler-icon">
+		   <span class="icon"></span>
+		   <span class="icon"></span>
+		   <span class="icon"></span>
+				</span>
+       </button>
+			<div class="hd1 text-left">
+				<a href="index.php"><img src="assets/images/head_ims1_02.jpg" width="200" height="96" alt=""></a>
+				<p><strong>Gamma Knife Surgery</strong> India</p>
+			</div>
+			<div class="hd2 text-right  m-auto">
+				<img src="assets/images/head_ims1_05.jpg" width="135" height="95" alt="" class="m-auto">
+			</div>
+			<div class="hd2 text-right  m-auto">
+				<img src="assets/images/head_ims1_06.jpg" width="262" height="95" alt="">
+				<p>Gamma Knife Treatment</p>
+			</div>
+			<div class="hd3 text-left m-auto">
+				<p>Learn more about <strong>Gamma Knife Technology</strong>
+				</p>
+				<img src="assets/images/head_ims1_09.jpg" width="200" height="50" alt="">
+				<p>Gammaknifesurgeryindia.com</p>
+			</div>
+		</nav>
+		<nav class="navbar navbar-expand-lg justify-content-between" id="navbarGKSI">
+			<div class="collapse navbar-collapse" id="navbar_GKSI">
+				<ul class="navbar-nav mr-auto">
+					<li class="nav-item active">
+						<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a></li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">About us</a></li>
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Gamma Knife</a>
+						<ul class="dropdown-menu">
+							<li><a href="#" class="dropdown-item">Treatments</a></li>
+							<li><a href="#" class="dropdown-item">How It Works?</a></li>
+							<li><a href="#" class="dropdown-item">Indications</a></li>
+							<li><a href="#" class="dropdown-item">Advantages &amp; Outcome</a></li>
+							<li><a href="#" class="dropdown-item">Comparison</a></li>
+							<li><a href="#" class="dropdown-item">Suitability of Patient</a></li>
+						</ul>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">Gamma Knife Surgery</a></li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">For Patient &amp; Visitors</a></li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">Contact us</a></li>
+				</ul>
+			</div>
+		</nav>
+	</header>
+	<main class="container">
+		<div class="row">
+			<aside class="col-md-3 col-lg-2">
+				<nav class="navbar" id="navbarGKSI2">
+					<ul class="navbar-nav">
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle" href="#" id="ddwn1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Overview</a>
+							<ul class="dropdown-menu sh" aria-labelledby="ddwn1">
+								<li><a class="dropdown-item" href="#">Gamma Knife Facts</a></li>
+								<li><a class="dropdown-item" href="#">Gamma Knife for Physicians</a></li>
+								<li><a class="dropdown-item" href="#">Gamma Knife team</a></li>
+								<li><a class="dropdown-item" href="#">What can be treated?</a></li>
+								<li><a class="dropdown-item" href="#">Sub-Specialties</a></li>
+								<li><a class="dropdown-item" href="#">Patient Informations</a></li>
+							</ul>
+						</li>
+						<li class="dropdown-divider"></li>
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle" href="#" id="ddwn2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Related Surgeries</a>
+							<ul class="dropdown-menu" aria-labelledby="ddwn2">
+								<li><a class="dropdown-item" href="#">Functional Neurosurgery</a></li>
+								<li><a class="dropdown-item" href="#">Psychosurgery</a></li>
+								<li><a class="dropdown-item" href="#">Vagal Nerve Stimulation</a></li>
+								<li><a class="dropdown-item" href="#">Pediatric Neurosurgery</a></li>
+								<li><a class="dropdown-item" href="#">Obsessive Compulsive Disorder</a></li>
+								<li><a class="dropdown-item" href="#">Deep Brain Stimulation</a></li>
+							</ul>
+						</li>
+					</ul>
+				</nav>
+			</aside>
+			<section class="col-md-9 col-lg-10 p-0" style="background-color: #f7f7f7">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md-12 col-lg-9 p-0">
+							<div id="indicators1" class="carousel slide" data-ride="carousel" style="background-color: grey" data-wrap="false">
+								<ol class="carousel-indicators">
+									<li data-target="#indicators1" data-slide-to="0" class="active"></li>
+									<li data-target="#indicators1" data-slide-to="1"></li>
+									<li data-target="#indicators1" data-slide-to="2"></li>
+									<li data-target="#indicators1" data-slide-to="3"></li>
+									<li data-target="#indicators1" data-slide-to="4"></li>
+									<li data-target="#indicators1" data-slide-to="5"></li>
+								</ol>
+								<div class="carousel-inner" role="listbox">
+									<div class="carousel-item active" style="background-image: url('assets/images/Gamma_knife_painless1.jpg');">
+										<div class="carousel-caption">
+											<h1>Gamma Knife Surgery - Step by Step</h1>
+											<p>1. Frame fixation</p>
+										</div>
+									</div>
+									<div class="carousel-item" style="background-image: url('assets/images/Gamma_knife_painless.jpg');">
+										<div class="carousel-caption">
+											<p>2. Diaganostic imaging</p>
+										</div>
+									</div>
+									<div class="carousel-item" style="background-image: url('assets/images/Gamma_knife_painless2.jpg');">
+										<div class="carousel-caption">
+											<p>3. Patient with fixed frame</p>
+										</div>
+									</div>
+									<div class="carousel-item" style="background-image:url('assets/images/Gamma_knife_painless3.jpg');">
+										<div class="carousel-caption">
+											<p>4. Computerized treatment planning</p>
+										</div>
+									</div>
+									<div class="carousel-item" style="background-image:url('assets/images/Gamma_knife_painless4.jpg')">
+										<div class="carousel-caption">
+											<p>5. Data analysis and results</p>
+										</div>
+									</div>
+									<div class="carousel-item" style="background-image:url('assets/images/Gamma_knife_painless5.jpg')">
+										<div class="carousel-caption">
+											<p>6. Gamma Knife Treatment</p>
+										</div>
+									</div>
+								</div>
+								<a class="carousel-control-prev" href="#indicators1" role="button" data-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a> <a class="carousel-control-next" href="#indicators1" role="button" data-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span> <span class="sr-only">Next</span> </a> </div>
+							<div class="gks_content_block1">
+								<h1>Gamma Knife</h1>
+								<p>Gamma Knife is a neurosurgical device used to treat brain tumors with radiation therapy. The device was invented by Lars Leksell, a Swedish neurosurgeon, in 1967 at the Karolinska Institute in Sweden.</p>
+<p>The Leksell Gamma Knife device contains 201 cobalt-60 sources of approximately 30 curies (1.1 TBq) each, placed in a circular array in a heavily shielded assembly. The device aims gamma radiation through a target point in the patient&#39;s brain. The patient wears a specialized helmet that is surgically fixed to their skull so that the brain tumor remains stationary at target point of the gamma rays. A killing dose of radiation is thereby sent through the tumor in one treatment session, while all surrounding brain tissues receive less than a killing dose.</p>
+
+								<div class="d-flex flex-wrap align-items-start">
+									<ol>
+										<li>Painless</li>
+										<li>Bloodless</li>
+										<li>Precise</li>
+										<li>Short treatment &amp; Hospitalization</li>
+										<li>Low Cost</li>
+										<li>Experienced Team</li>
+										<li>Dedicated Hospital</li>
+									</ol>
+									<img src="assets/images/Gamma-knife.gif" width="156" height="112" alt="">
+								</div>
+								<h2>FEATURES OF GAMMA KNIFE</h2>
+<p>Radiosurgery uses high doses of radiation to kill cancer cells and shrink tumors, delivered with surgical precision to avoid damaging healthy brain tissue. The key to the success of Gamma Knife surgery is its ability to accurately focus many beams of high-intensity gamma radiation to converge on one or more tumors. Each individual beam is relatively low energy, so the radiation has virtually no effect on healthy brain tissue.</p>
+<h2>APPLICATIONS</h2>
+<p>Gamma Knife surgery has proved effective for thousands of patients with benign or malignant brain tumors, vascular malformations such as an arteriovenous malformation (AVM), pain or other functional problems. The procedure is less invasive than alternative surgeries such as micro-decompression. For treatment of trigeminal neuralgia the procedure may be used repeatedly on patients.</p>
+<h2>RISKS </h2>
+<p>The risks of Gamma Knife radiosurgery treatment include but are not limited to radiation necrosis, secondary malignancy caused by the radiation (ie: formation of new tumor), hemorrhage, infection from the placement of the stereotactic headframe, paralysis and death.</p>
+								<h2>Patient Says ...</h2>
+								<p>Patient Irene D Souza after getting relief by Gamma pallidotmy for Parkinson&#39;s disease of 11 years duration ... I wish heard of Gammaknife radiosurgery earlier.. Everyday there is a small change for better. I wish in future, science would discover a cure for this disease. Published in Another prospective, Volume 4 number 1, Internations Radiosurgeyry Support Association publication.</p>
+								<h2>Media Says ...</h2>
+								<p>&quot;A surgical brainwave - The Gamma knife is pinpoint accurate and non-invasive, but underused&quot; TIMES ONLINE - January 08, 2003 IT IS THE stuff of science fiction: gamma-ray technology used to treat patients surgically without any blood being spilt or any sign of a wound. Yet the future has already arrived in the form/ of a remarkable high-tech radiosurgical device called the Gamma knife, which can perform pinpoint-accurate brain surgery with none of the side-effects created by opening up the skull . . .</p>
+								<h2>ADVANTAGES OF GAMMA KNIFE<sup>&reg;</sup></h2>
+								<ol>
+									<li>Gamma Knife<sup>&reg;</sup> is a neurosurgical tool designed exclusively for the treatment of brain disorders.</li>
+									<li>The lesion being treated receives a high dose of radiation with minimum risk to nearby tissue and structures.</li>
+									<li>The cost of a Gamma Knife<sup>&reg;</sup> procedure is often 25% to 30% less than traditional neurosurgery. Patients experience little discomfort.</li>
+									<li>The absence of an incision eliminates the risk of hemorrhage and infection.</li>
+									<li>Hospitalization is short, typically an overnight stay or an outpatient surgical procedure. Patients can immediately resume their previous activities.</li>
+									<li><em><strong>Gamma Knife<sup>&reg;</sup> technology</strong></em> allows treatment of inoperable lesions. The procedure offers hope to patients who were formerly considered untreatable or at very high risk during open skull surgery.</li>
+								</ol>
+							</div>
+						</div>
+						<aside class="col-md-12 col-lg-3 gks1">
+							<h2>Related Physicians &amp; Services</h2>
+							<h3>Services</h3>
+							<ul>
+								<li><a href="#">What is Gamma Knife?</a></li>
+								<li><a href="#">How Gamma Knife is performed?</a></li>
+								<li><a href="#">History of Gamma Knife</a></li>
+								<li><a href="#">Frequently Asked Questions</a></li>
+								<li><a href="#">The Team</a></li>
+								<li><a href="#">Support associations</a></li>
+								<li><a href="#">Acoustic neuroma</a></li>
+								<li><a href="#">Glioblastoma</a></li>
+								<li><a href="#">Pituitary tumor</a></li>
+								<li><a href="#">Trigeminal neuralgia</a></li>
+								<li><a href="#">Cancer Survivors Network</a></li>
+								<li><a href="#">Cancer Care Center</a></li>
+							</ul>
+							<h3>Doctors with this Specialty</h3>
+							<ul>
+								<li><a href="#">Neurosurgeons</a></li>
+								<li><a href="#">Radiation oncologists</a></li>
+							</ul>
+							<h2>Related Content</h2>
+							<ul>
+								<li><a href="#">Neurosurgeons</a></li>
+								<li><a href="#">Radiation oncologists</a></li>
+								<li><a href="#">Radiation oncology</a></li>
+								<li><a href="#">Radiation treatment</a></li>
+								<li><a href="#">Oncology team</a></li>
+								<li><a href="#">Oncology research</a></li>
+								<li><a href="#">Other oncology programs</a></li>
+								<li><a href="#">Cancer Survivors Network</a></li>
+							</ul>
+						</aside>
+					</div>
+				</div>
+			</section>
+		</div>
+	</main>
+	<footer class="container p-0" style="background-image: url('assets/images/PG_BG.gif')">
+		<h2>Links &amp; Resources</h2>
+		<div class="d-flex flex-wrap align-items-start justify-content-between p-3">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="#">Healthcare Providers</a></li>
+				<li><a href="#">Our Services</a></li>
+				<li><a href="#">Find a Doctor</a></li>
+			</ul>
+			<ul>
+				<li><a href="#">About Us</a></li>
+				<li><a href="#">Locations and Maps</a></li>
+				<li><a href="#">Patients and Visitors</a></li>
+				<li><a href="#">Health Professionals</a></li>
+			</ul>
+			<ul>
+				<li><a href="#">Links</a></li>
+				<li><a href="#">Contact Us</a></li>
+			</ul>
+			<ul>
+				<li><a href="#">News</a></li>
+				<li><a href="#">Events</a></li>
+				<li><a href="#">Videos</a></li>
+				<li><a href="#">Site Map</a></li>
+			</ul>
+		</div>
+		<div class="copyrts">
+			<h2>Copyrights<sup>&copy;</sup> Gammaknifesurgeryindia.com</h2>
+			<p><a href="#">Disclaimer</a> | <a href="#">Privacy Policy</a> | <a href="#">Terms</a> | All rights reserved<sup>&reg;</sup>.</p>
+		</div>
+	</footer>
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="js/popper.min.js"></script>
+	<script src="js/bootstrap-4.2.1.js"></script>
+</body>
+</html>
