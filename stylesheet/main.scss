@@ -133,16 +133,20 @@ a {
 }
 }
 
-#SNew_HDr #Lhwdt a {
-	border: 1px solid #4F4F4F;
+#SNew_HDr #Lhwdt a , a.btn1{
 	color: #4F4F4F;
 	background-color: #F4f4f4;
 	text-decoration: none;
 	display: inline-block;
 	font-weight: 400;
 	font-size: 20px;
+	border: 1px solid #4F4F4F;
 }
-#SNew_HDr #Lhwdt a:hover {
+a.btn1{
+	padding: 12px;
+}
+#SNew_HDr #Lhwdt a:hover, a.btn1:hover {
+	color: #4F4F4F;
 	background-color: #FFF;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
