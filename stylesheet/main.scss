@@ -12,6 +12,18 @@ body {
 	font-family: sans-serif;
 	margin: 0px;
 	min-width: 480px;
+	.visible_md{
+		display: none;
+		@media (min-width: 768px){
+			display: block;
+		}
+	}
+	.visible_sm{
+		display: none;
+		@media (max-width: 767px){
+			display: block;
+		}
+	}
 }
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
     padding: 0;
