@@ -286,7 +286,7 @@ section.Snew2 {
 	background-size: cover;
 	background-position: left top;
 }
-@media (min-width: 577px) and (max-width: 960px) {
+@media (min-width: 640px) and (max-width: 960px) {
 .Snew2-item {
 	width: 46.875%;
 	float: left;
@@ -316,7 +316,7 @@ section.Snew2 {
 	width: 100%;
 	top: 0px;
 	right: 0px;
-	padding: 20px 20px 32px;
+	padding: 20px;
 	text-align: left;
 	overflow: visible;
 }
