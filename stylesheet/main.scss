@@ -12,7 +12,6 @@ body {
 	font-family: sans-serif;
 	margin: 0px;
 	min-width: 480px;
-//	word-wrap: break-word;
 	.visible_md{
 		display: none;
 		@media (min-width: 768px){
@@ -25,8 +24,8 @@ body {
 			display: block;
 		}
 	}
-	@media (max-width: 767px) and (min-width: 576px){
-		.Snew2-item-title{
+	@media (max-width: 767px) and (min-width: 577px){
+		.Snew2-item-title{ 
 			font-size: 16px;			
 		}
 		.Snew2-item-desc {
