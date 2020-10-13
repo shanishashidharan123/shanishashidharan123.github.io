@@ -11,8 +11,8 @@
 body {
 	font-family: sans-serif;
 	margin: 0px;
-	min-width: 480px; 
-	word-wrap: break-word;
+	min-width: 480px;
+//	word-wrap: break-word;
 	.visible_md{
 		display: none;
 		@media (min-width: 768px){
