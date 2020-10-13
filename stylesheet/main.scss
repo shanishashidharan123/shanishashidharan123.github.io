@@ -12,6 +12,7 @@ body {
 	font-family: sans-serif;
 	margin: 0px;
 	min-width: 480px; 
+	word-wrap: break-word;
 	.visible_md{
 		display: none;
 		@media (min-width: 768px){
@@ -22,6 +23,20 @@ body {
 		display: none;
 		@media (max-width: 767px){
 			display: block;
+		}
+	}
+	@media (max-width: 767px) and (min-width: 576px){
+		.Snew2-item-title{
+			font-size: 16px;			
+		}
+		.Snew2-item-desc {
+    		font-size: 14px;
+		}
+		.Snew2-item-type {
+    		font-size: 15px;
+		}
+		.Snew2-item-status {
+    		font-size: 12px;
 		}
 	}
 }
@@ -109,6 +124,7 @@ a {
 	color: #4F4F4F;
 	padding-top: 0px;
 	padding-bottom: 36px;
+	line-height: 150%;
 }
 #SNew_HDr #Lhwdt {
     display: block;
@@ -286,7 +302,7 @@ section.Snew2 {
 	background-size: cover;
 	background-position: left top;
 }
-@media (min-width: 640px) and (max-width: 960px) {
+@media (min-width: 577px) and (max-width: 960px) {
 .Snew2-item {
 	width: 46.875%;
 	float: left;
