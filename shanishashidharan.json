@@ -6,7 +6,8 @@
     {
       "src": "https://shanishashidharan123.github.io/images/logo_192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+		"purpose": "any"
     },
     {
       "src": "https://shanishashidharan123.github.io/images/logo_196.png",
@@ -17,7 +18,8 @@
     {
       "src": "https://shanishashidharan123.github.io/images/logo_512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+		"purpose": "any"
     }
   ],
   "start_url": "https://shanishashidharan123.github.io/index.html",
