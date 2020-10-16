@@ -1,3 +1,362 @@
+//mixins 
+@mixin hover {  
+    @include transition(color 0.6s linear); 
+    &:hover {
+        color: #ee2e2d;
+        @include transition(color 0.6s linear);  
+    }
+    &:focus {
+        color: #ee2e2d;
+        @include transition(color 0s linear);     
+    }
+    &:active {
+        color: #BC100F;
+        @include transition(color 0s linear);
+    }
+} 
+
+@mixin hovers($obj1, $obj2) {
+    @include transition(color 0.6s linear); 
+    &:hover, 
+    &:focus {
+        color: $obj1;
+        @include transition(color 0.6s linear);
+    }
+    &:active { 
+        color: $obj2;
+        @include transition(all 0s linear);
+    }
+}
+
+@mixin bghover($obj1, $obj2) {
+    &:hover,
+    &:focus {
+        background-color: $obj1;
+    }
+    &:active {
+        background-color: $obj2;
+    }
+}
+
+@mixin bghovers($obj1, $obj2) {
+    @include transition(color 0.6s linear); 
+    &:hover,
+    &:focus {
+        background-color: $obj1;
+        @include transition(color 0.6s linear);
+    }
+    &:active {
+        background-color: $obj2;
+        @include transition(all 0s linear); 
+    }
+}
+
+@mixin btn_hover {
+    @include transin_all; 
+    &:hover,
+    &:focus {
+        color: #18253F;
+        background-color: #ee2e2d;
+        @include transin_all;
+    }
+    &:active {
+        color: #18253F;
+        background-color: #ee2e2d;
+        @include box-shadow(inset 1px 1px 3px 2px rgba(0, 0, 0, 0.15));
+        @include transition(all 0s linear);
+    }
+}
+
+@mixin btn_hovers($obj1, $obj2) {
+    @include transin_all;
+    &:hover,
+    &:focus {
+        color: $obj1;
+        background-color: #ffffff;
+        @include transin_all;
+    }
+    &:active {
+        color: $obj2;
+        background-color: #ffffff;
+        @include transition(all 0s linear);
+    }
+}
+
+@mixin abs {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+} 
+
+@mixin fixed {
+    position: fixed; 
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+}
+
+@mixin transin_all {
+    -webkit-transition: all 0.5s linear;
+    -moz-transition: all 0.5s linear;
+    -o-transition: all 0.5s linear;
+    transition: all 0.5s linear;
+}
+
+@mixin transition($val) {
+    -webkit-transition: $val;
+    -moz-transition: $val;
+    -o-transition: $val;
+    transition: $val;
+}
+
+@mixin form_elem($obj) {
+    select::-ms-expand {
+        display: none;
+    }
+    input::-webkit-input-placeholder {
+        color: $obj;
+    }
+    input::-moz-placeholder {
+        color: $obj;
+    }
+    input:-ms-input-placeholder {
+        color: $obj;
+    }
+    input:-moz-placeholder {
+        color: $obj;
+    }
+    textarea::-webkit-input-placeholder {
+        color: $obj;
+    }
+    textarea::-moz-placeholder {
+        color: $obj;
+    }
+    textarea:-ms-input-placeholder {
+        color: $obj;
+    }
+    textarea:-moz-placeholder {
+        color: $obj;
+    }
+}
+
+@mixin apperance($obj) {
+    -webkit-appearance: $obj;
+    -moz-appearance: $obj;
+}
+
+@mixin linear-gradient-H($obj, $obj2, $obj3) {
+    background-image: -webkit-linear-gradient($obj - 90 + deg, $obj2, $obj3);
+    background-image: -o-linear-gradient($obj + deg, $obj2, $obj3);
+    background-image: linear-gradient($obj + deg, $obj2, $obj3);
+}
+
+@mixin linear-gradient-V($obj, $obj2, $obj3) {
+    background-image: -webkit-linear-gradient($obj + 90 + deg, $obj2, $obj3);
+    background-image: -moz-linear-gradient($obj + deg, $obj2, $obj3);
+    background-image: -o-linear-gradient($obj + deg, $obj2, $obj3);
+    background-image: linear-gradient($obj + deg, $obj2, $obj3);
+}
+ 
+@mixin linear-gradient-to($obj, $obj2, $obj3) {
+    background-image: -webkit-linear-gradient($obj, $obj2, $obj3);
+    background-image: -moz-linear-gradient($obj, $obj2, $obj3);
+    background-image: -o-linear-gradient($obj, $obj2, $obj3);
+    background-image: linear-gradient($obj, $obj2, $obj3);
+}
+
+@mixin radial-gradient($obj, $obj2, $obj3, $obj4) {
+    background-image: -webkit-radial-gradient($obj, $obj2, $obj3, $obj4);
+    background-image: -moz-radial-gradient($obj, $obj2, $obj3, $obj4);
+    background-image: -o-radial-gradient($obj, $obj2, $obj3, $obj4);
+    background-image: radial-gradient($obj, $obj2, $obj3, $obj4);
+}
+
+@mixin border-radius($color) {
+    -webkit-border-radius: $color;
+    -moz-border-radius: $color;
+    border-radius: $color;
+}
+
+@mixin transform($prop) { 
+    -webkit-transform: $prop;
+    -moz-transform: $prop;
+    -ms-transform: $prop;
+    -o-transform: $prop;
+    transform: $prop;
+}
+
+@mixin transform-origin($prop) {
+    -webkit-transform-origin: $prop;
+    -moz-transform-origin: $prop;
+    -ms-transform-origin: $prop;
+    -o-transform-origin: $prop;
+    transform-origin: $prop;
+}
+
+@mixin box-shadow($val) {
+    -webkit-box-shadow: $val;
+    -moz-box-shadow: $val;
+    box-shadow: $val;
+}
+
+@mixin box-shadow2($val, $val2) {
+    -webkit-box-shadow: $val, $val2;
+    -moz-box-shadow: $val, $val2;
+    box-shadow: $val, $val2;
+}
+
+@mixin animation($anim1) {
+    -webkit-animation: $anim1;
+    -moz-animation: $anim1;
+    -o-animation: $anim1;
+    animation: $anim1;
+}
+
+@mixin outline($obj) {
+    outline: $obj;
+    &:focus {
+        outline: $obj;
+    }
+}
+
+@mixin backface-visibility($obj) {
+    -webkit-backface-visibility: $obj;
+    -moz-backface-visibility: $obj;
+    backface-visibility: $obj;
+}
+
+@mixin user-select($obj) {
+    -ms-user-select: $obj;
+    -webkit-user-select: $obj;
+    -moz-user-select: $obj;
+    user-select: $obj;
+}
+
+@mixin hyphens($obj) {
+    -webkit-hyphens: $obj;
+    -moz-hyphens: $obj;
+    -ms-hyphens: $obj;
+    hyphens: $obj;
+}
+
+@mixin flex {
+  display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+  display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+  display: -ms-flexbox;      /* TWEENER - IE 10 */
+  display: -webkit-flex;     /* NEW - Chrome */
+  display: flex;
+}
+
+@mixin fleximp {
+  display: -webkit-box!important;      /* OLD - iOS 6-, Safari 3.1-6 */
+  display: -moz-box!important;         /* OLD - Firefox 19- (buggy but mostly works) */
+  display: -ms-flexbox!important;      /* TWEENER - IE 10 */
+  display: -webkit-flex!important;     /* NEW - Chrome */
+  display: flex!important;
+}
+
+@mixin flexin($obj) {
+    -webkit-flex: $obj;
+    -ms-flex: $obj;
+    flex: $obj;
+}
+
+@mixin flex-direction($obj) {
+    -webkit-flex-direction: $obj;
+    -ms-flex-direction: $obj;
+    flex-direction: $obj;
+}
+
+@mixin align-items($obj) {
+    -webkit-align-items: $obj;
+    align-items: $obj;
+}
+
+@mixin space-between {
+    @include justify-content(space-between);
+}
+
+@mixin scrollbar($obj1, $obj2, $obj3, $obj4, $obj5) {
+    ::-webkit-scrollbar {
+        width: $obj1;
+        height: $obj2;
+    }
+    ::-webkit-scrollbar-track {
+        background: $obj3;
+        border: none;
+    }
+    ::-webkit-scrollbar-thumb {
+        background-color: $obj4;
+        display: block;
+        @include border-radius(6px);
+    }
+    ::-webkit-scrollbar-thumb:window-inactive {
+        background-color: $obj5;
+    }
+}
+
+@mixin select {
+    select::-ms-expand {
+        display: none;
+    }
+}
+
+@mixin justify-content($obj) {
+    -webkit-justify-content: $obj;
+    justify-content: $obj;
+}
+
+@mixin filter($obj) {
+    -webkit-filter: $obj;
+    filter: $obj;
+}
+
+@mixin activebtn {
+    @include box-shadow(inset 1px 1px 3px 2px rgba(0, 0, 0, 0.15));
+    @include transition(all 0s);
+}
+
+@mixin activetrans {
+    @include transition(all 0s);
+}
+
+@mixin background-size ($obj) {
+    -webkit-background-size: $obj;
+    -moz-background-size: $obj;
+    -o-background-size: $obj;
+    background-size: $obj;
+}
+@mixin bgim {
+    background-position: center center;
+    background-repeat: no-repeat;
+    @include background-size(cover);
+}
+
+@mixin bgimtop {
+    background-position: center top;
+    background-repeat: no-repeat;
+    @include background-size(cover);
+}
+
+@mixin bgbefore($obj) {
+    &:before {
+        content: " ";
+        background-color: $obj;
+        @include abs;
+        z-index: 1;
+    }
+}
+
+@mixin abscenter{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	@include transform(translate(-50%, -50%));
+}
+
 #SNew_HDr { 
 	padding-top: 0px; 
 	padding-bottom: 52px;
@@ -397,7 +756,10 @@ section.Snew2 {
 	-webkit-transform-origin: 100% 100% 0;
 	transform-origin: 100% 100% 0;
 	-webkit-transition: all 0.25s ease-in-out;
-	transition: all 0.25s ease-in-out
+	transition: all 0.25s ease-in-out;
+	@media (max-width: 374px){
+		@include transform(scale(0.66)); 
+	}
 }
 .Snew2-item:hover {
 	box-shadow: 0 4px 8px rgba(0,0,0,0.2)
