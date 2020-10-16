@@ -9,6 +9,12 @@
       "sizes": "192x192"
     },
     {
+      "src": "https://shanishashidharan123.github.io/images/logo_196.png",
+      "type": "image/png",
+      "sizes": "196x196",
+	  "purpose": "maskable"
+    },
+    {
       "src": "https://shanishashidharan123.github.io/images/logo_512.png",
       "type": "image/png",
       "sizes": "512x512"
