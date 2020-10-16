@@ -6,12 +6,18 @@
 	border-bottom-color: #E8E8E8;
 	margin-bottom: 50px;
 	background-color: #f4f4f4;
-
 }
 body {
 	font-family: sans-serif;
+	font-size: 100%;
 	margin: 0px;
-	min-width: 480px;
+//	min-width: 480px;
+	@media (max-width: 480px){
+		font-size: 75%; 
+	}
+	@media (max-width: 319px){
+		font-size: 66%; 
+	}
 	.visible_md{
 		display: none;
 		@media (min-width: 768px){
@@ -26,16 +32,16 @@ body {
 	}
 	@media (max-width: 767px) and (min-width: 577px){
 		.Snew2-item-title{ 
-			font-size: 16px;			
+			font-size: 100%;			
 		}
 		.Snew2-item-desc {
-    		font-size: 14px;
+    		font-size: 87.5%;
 		}
 		.Snew2-item-type {
-    		font-size: 15px;
+    		font-size: 93.75%;
 		}
 		.Snew2-item-status {
-    		font-size: 12px;
+    		font-size: 75%;
 		}
 	}
 }
@@ -54,6 +60,12 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Proxima Nova Alt Bold", sans-serif;
     font-style: normal;
     font-weight: 600;
+}
+h2{
+	font-size: 150%;
+}
+h3{
+	font-size: 125%;
 }
 a {
 	text-decoration: none;
@@ -80,8 +92,7 @@ a {
 	font-weight: 300;
 	text-transform: uppercase;
 	margin-right: 1.5625%;
-	margin-left: 1.5625%;
-	font-size: 17px;
+	font-size: 160%;
 }
 #SNew_HDr .atop2 {
 	font-weight: 300;
@@ -115,9 +126,9 @@ a {
 }
 
 #SNew_HDr #hd_text1 {
+	font-size: 300%;
 	clear: both;
 	display: block;
-	font-size: 3em;
 	font-weight: 400;
 	font-family: Libre-Bodoni-master;
 	color: #4F4F4F;
@@ -146,6 +157,7 @@ a {
 }
 }
 .Snew_h1 {
+	font-size: 150%;
 	width: 960px;
 	margin-right: auto;
 	margin-left: auto;
@@ -166,7 +178,7 @@ a {
 	text-decoration: none;
 	display: inline-block;
 	font-weight: 400;
-	font-size: 20px;
+	font-size: 125%;
 	border: 1px solid #4F4F4F;
 }
 a.btn1{
@@ -184,12 +196,15 @@ a.btn1{
     text-transform: uppercase;
     -webkit-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
-    font-size: 16px;
+    font-size: 100%;
     padding: 1em 2em;
 }
 .Snew_mn #Snew_mn1 {
 	padding-top: 0px;
-	padding-bottom: 72px;
+	padding: 0px 24px 72px;
+	@media (max-width: 319px){
+		font-size: 66%; 
+	}
 }
 @media (min-width: 961px){
 section.Snew_mn2 {
@@ -208,6 +223,7 @@ section.Snew_mn2 {
 }
 }
 .Snew_mn2_title {
+	font-size: 150%;
     text-align: center;
     margin-top: 0px;
     margin-bottom: 24px;
@@ -334,30 +350,39 @@ section.Snew2 {
 	padding: 20px;
 	text-align: left;
 	overflow: visible;
+	@media (max-width: 480px){
+		font-size: 90%; 
+	}
+	@media (max-width: 319px){
+		font-size: 66%; 
+	}
 }
 .Snew2-item-title {
-	font-size: 20px;
+	font-size: 125%;
 	margin-bottom: 12px
 }
 .Snew2-item-desc {
-	font-size: 18px;
+	font-size: 112.5%;
 	margin-bottom: 0
 }
 .Snew2-item-details {
 	text-align: left;
 	position: absolute;
 	bottom: 20px;
-	left: 20px
+	left: 20px;
+	@media (max-width: 319px){
+		font-size: 60%; 
+	}
 }
 .Snew2-item-type {
 	display: block;
-	font-size: 20px;
+	font-size: 125%;
 	font-family: "proxima-nova-alt", sans-serif;
 	font-style: normal;
 	font-weight: 600
 }
 .Snew2-item-status {
-	font-size: 14px;
+	font-size: 87.5%;
 	font-family: "proxima-nova-alt", sans-serif;
 	font-style: normal;
 	font-weight:700;
@@ -531,7 +556,7 @@ img.team-member-img {
 .team-member-role {
 	margin-bottom: 1em;
 	padding-bottom: 1em;
-	font-size: 20px;
+	font-size: 125%;
 	font-family: "proxima-nova-alt", sans-serif;
 	font-style: normal;
 	font-weight: 400;
@@ -551,13 +576,13 @@ img.team-member-img {
 	bottom: 0em
 }
 .team-member-desc {
-	font-size: 20px
+	font-size: 125%;
 }
 .Snew_footer {
 	padding-top: 36px;
 	padding-bottom: 36px;
 	text-align: center;
-	font-size: 20px
+	font-size: 125%;
 }
 @media (min-width: 577px) and (max-width: 960px) {
 .Snew_footer {
