@@ -13,7 +13,13 @@
 	<!-- Bootstrap -->
 	<link href="assets/css/bootstrap-4.2.1.css" rel="stylesheet">
 	<link href="assets/css/gks_stylesheet.css" rel="stylesheet">
-
+    <script>
+        var browserName=navigator.appName; 
+        var browserVer=parseInt(navigator.appVersion); 
+        if ((browserName=="Netscape" && browserVer<5) || (browserName=="Microsoft Internet Explorer" && browserVer<9)) {
+            window.location="../detect_browser.html";
+        }
+    </script>
 </head>
 
 <body>
