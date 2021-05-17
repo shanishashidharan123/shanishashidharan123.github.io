@@ -587,7 +587,7 @@ em {
 #ADI_PGContent1 h1 {
 	color: #006699;
 	text-decoration: none;
-	font-size: 150%;
+	font-size: 16.5px;
 	margin: 0em;
 	padding-top: 0.75em;
 	padding-right: 0em;
@@ -653,6 +653,7 @@ em {
 	clear: none;
 }
 #ADI_PGContent1 p {
+    font-size: 11px;
 	margin: 0em;
 	padding-top: 0.5em;
 	padding-right: 0em;
