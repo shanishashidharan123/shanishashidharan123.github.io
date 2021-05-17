@@ -567,7 +567,7 @@ em {
 	margin: 1em;
 }
 #ADI_PGContent1 {
-	font-size: 0.625em;
+	font-size: 11px;
 	text-decoration: none;
 	margin-top: 1em;
 	margin-right: 0em;
@@ -578,6 +578,7 @@ em {
 	padding-bottom: 0em;
 	padding-left: 0em;
 	clear: both;
+    word-break: break-word;
 }
 #Title_BG {
 }
