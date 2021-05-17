@@ -12,7 +12,7 @@ body {
 	background-attachment: fixed;
 	background-image: url(../images/Pattern.gif);
 	background-repeat: repeat;
-	font-size: 1em;
+	font-size: 16px;
 }
 body, td, th {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
