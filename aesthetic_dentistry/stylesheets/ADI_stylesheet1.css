@@ -1072,7 +1072,7 @@ select {
 	border: thin solid #3399CC;
 }
 #Footer {
-	font-size: 70%;
+	font-size: 11px;
 	color: #003366;
 	text-decoration: none;
 	background-image: url(../images/FooterBG1.gif);
