@@ -426,6 +426,19 @@ h2, .h2{
 h3, .h3{
 	font-size: 125%;
 }
+ul, ol{
+    display: block;
+    margin-left: 30px;
+    li{
+        font-size: 100%;
+        ul, ol{
+            margin: 6px 0px 6px 30px;
+            li{
+                font-size: 100%;
+            }
+        }
+    }
+}
 a {
 	text-decoration: none;
 	color: #4F4F4F;
