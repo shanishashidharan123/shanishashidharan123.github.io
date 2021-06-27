@@ -1054,7 +1054,18 @@ img.team-member-img {
 	text-transform: uppercase;
 	letter-spacing: 0.3em
 }
-
+.Snew_footer-address{
+    a{
+        text-decoration: none;
+        outline: none;
+        &:hover, &:focus{
+            color: #43c6ac;
+        }
+        &:active{
+            color: #30A08A;
+        }
+    }
+}
 
 /* Fonts */
 @font-face {
