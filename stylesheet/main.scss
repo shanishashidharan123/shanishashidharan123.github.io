@@ -481,6 +481,26 @@ form{
         text-align: center;
         width: 200px;
         max-width: 100%;
+        &.primary{
+            color: #4F4F4F;
+            background-color: #F4f4f4;
+            text-decoration: none;
+            display: inline-block;
+            font-weight: 400;
+            font-size: 125%;
+            border: 1px solid #4F4F4F;
+            cursor: pointer;
+            &:hover, &:focus{
+                color: #ffffff;
+                background-color: #43c6ac;
+                border: 1px outset #43c6ac;
+            }
+            &:active{
+                color: #ffffff;
+                background-color: #30A08A;
+                border: 1px inset #43c6ac;
+            }
+        }
     }
 }
 #SNew_HDr .atop {
