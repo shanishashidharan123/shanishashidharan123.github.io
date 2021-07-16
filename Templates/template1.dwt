@@ -22,6 +22,13 @@
     if ((browserName=="Netscape" && browserVer<5) || (browserName=="Microsoft Internet Explorer" && browserVer<9)) {
         window.location="detect_browser.html";
     }
+    function secureproto() {
+        if (location.protocol !== 'https:') {
+            var str1 = window.location.href;
+            var str2 = str1.replace("http", "https");
+            window.location.assign(str2);
+        }
+    }
 </script> 
 <script src="https://unpkg.com/@botpoison/browser"></script>
 <!-- TemplateBeginEditable name="head" -->
@@ -51,12 +58,6 @@
 <script>
 	if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('serviceworker.js'); 
-    }
-    function secureproto() {
-        if (location.protocol !== 'https:') {
-//            window.location.assign("https://shanishashidharan.co.in");
-//            location.replace('https:${location.href.substring(location.protocol.length)}');
-        }
     }
 	</script>
 </body>
