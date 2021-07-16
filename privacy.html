@@ -27,7 +27,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <!-- InstanceEndEditable -->
 </head>
-<body>
+<body onLoad="secureproto()">
 <div id="SNew_HDr">
   <header id="Snew_hdr1">
     <div class="container">
@@ -222,6 +222,11 @@
 <script>
 	if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('serviceworker.js'); 
+    }
+    function secureproto() {
+        if (location.protocol !== 'https:') {
+            window.location.assign("https://shanishashidharan.co.in");
+        }
     }
 	</script>
 </body>
