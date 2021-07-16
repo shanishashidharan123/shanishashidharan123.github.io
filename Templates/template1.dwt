@@ -30,7 +30,6 @@
         }
     }
 </script> 
-<script src="https://unpkg.com/@botpoison/browser"></script>
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
 </head>
