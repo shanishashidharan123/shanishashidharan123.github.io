@@ -183,6 +183,9 @@
 	if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('serviceworker.js'); 
     }
+    if (location.protocol !== 'https:') {
+        window.location.assign("https://shanishashidharan.co.in");
+    }
 	</script><!-- InstanceEndEditable -->
   </main>
 </div>
