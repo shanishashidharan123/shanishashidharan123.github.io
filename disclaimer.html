@@ -23,18 +23,18 @@
     if ((browserName=="Netscape" && browserVer<5) || (browserName=="Microsoft Internet Explorer" && browserVer<9)) {
         window.location="detect_browser.html";
     }
-    function secureproto() {
-        if (location.protocol !== 'https:') {
-            var str1 = window.location.href;
-            var str2 = str1.replace("http", "https");
-            window.location.assign(str2);
-        }
-    }
+//    function secureproto() {
+//        if (location.protocol !== 'https:') {
+//            var str1 = window.location.href;
+//            var str2 = str1.replace("http", "https");
+//            window.location.assign(str2);
+//        }
+//    }
 </script> 
 <!-- InstanceBeginEditable name="head" -->
 <!-- InstanceEndEditable -->
 </head>
-<body onLoad="secureproto()">
+<body>
 <div id="SNew_HDr">
   <header id="Snew_hdr1">
     <div class="container">
