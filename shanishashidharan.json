@@ -4,25 +4,25 @@
   "description": "Website @ lowcost",
   "icons": [
     {
-      "src": "https://shanishashidharan123.github.io/images/logo_192.png",
+      "src": "https://shanishashidharan.co.in/images/logo_192.png",
       "type": "image/png",
       "sizes": "192x192",
 		"purpose": "any"
     },
     {
-      "src": "https://shanishashidharan123.github.io/images/logo_196.png",
+      "src": "https://shanishashidharan.co.in/images/logo_196.png",
       "type": "image/png",
       "sizes": "196x196",
 	  "purpose": "maskable"
     },
     {
-      "src": "https://shanishashidharan123.github.io/images/logo_512.png",
+      "src": "https://shanishashidharan.co.in/images/logo_512.png",
       "type": "image/png",
       "sizes": "512x512",
 		"purpose": "any"
     }
   ],
-  "start_url": "https://shanishashidharan123.github.io/index.html",
+  "start_url": "https://shanishashidharan.co.in/index.html",
   "background_color": "#a5cafd",
   "display": "standalone",
   "scope": "/",
@@ -32,14 +32,14 @@
       "name": "Shani Shashidharan",
       "short_name": "Shani",
       "description": "Website @ lowcost",
-      "url": "https://shanishashidharan123.github.io/",
+      "url": "https://shanishashidharan.co.in/",
       "icons": [{ "src": "images/logo_192.png", "sizes": "192x192" }]
     },
     {
       "name": "Gamma Knife Surgery India",
       "short_name": "Gamma Knife",
       "description": "Gamma Knife is a neurosurgical device used to treat brain tumors with radiation therapy. The device was invented by Lars Leksell, a Swedish neurosurgeon, in 1967 at the Karolinska Institute in Sweden.",
-      "url": "https://shanishashidharan123.github.io/gamma_knife/",
+      "url": "https://shanishashidharan.co.in/gamma_knife/",
       "icons": [{ "src": "images/logo_192.png", "sizes": "192x192" }]
     }
   ]
