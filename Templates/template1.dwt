@@ -48,7 +48,7 @@
 <div id="SNew_HDr">
   <header id="Snew_hdr1">
     <div class="container">
-      <p><span class="algn_LEFT atop">SHANI SHASHIDHARAN</span>  <a href="mailto:shanishashidharan@gmail.com" class="atop2 algn_RIGHT">CONTACT</a> <a href="../about_ss.html" class="atop2 algn_RIGHT" style="margin: 0px 12px">ABOUT</a></p>
+      <p><span class="algn_LEFT atop"><a href="../about_ss.html">SHANI SHASHIDHARAN</a></span>  <a href="../contact_ss.html" class="atop2 algn_RIGHT">CONTACT</a></p>
     </div>
   </header>
   <main class="Snew_mn">
