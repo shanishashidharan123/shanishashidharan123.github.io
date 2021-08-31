@@ -403,6 +403,35 @@ body {
     		font-size: 75%;
 		}
 	}
+    table{
+        &.table1{
+            border: 0px; 
+            table-layout: auto; 
+            border-collapse: collapse;
+            display: block; 
+            overflow: auto;
+            + h2, + h3, +h4, + h5, +h6{
+                margin-top: 16px;
+            }
+            th{
+                font-size: 18px;
+                p{
+                    font-size: 18px;
+                }
+                background-color: #eeeeee;
+            }
+            td, th{
+                border: 1px solid #ccc;
+                padding: 5px 16px;
+                p{
+                    margin: 0px;
+                    + p{
+                        margin-top: 7px;
+                    }
+                }
+            }
+        }
+    }
     #canvas, #animation_container, #dom_overlay_container{
         width: 100%!important;
         margin: auto!important;

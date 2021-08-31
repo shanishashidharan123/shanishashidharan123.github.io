@@ -9,6 +9,11 @@
 <!-- TemplateEndEditable -->
 <link href="../images/ss_icon.ico" rel="icon" title="Icon of shani shashidharan" type="image/x-icon" id="ss123">
 <link rel="apple-touch-icon" href="../images/logo_192.png">
+<meta name="theme-color" content="#a5cafd">
+<!-- TemplateBeginEditable name="metatags" -->
+<meta name="Description" content="Shani Shashidharan">
+<meta name="Keywords" content="Shani Shashidharan">
+<!-- TemplateEndEditable -->
 <!-- Bootstrap -->
 <link href="../css/bootstrap-4.4.1.css" rel="stylesheet preload" as="style">
 <link rel="stylesheet preload" href="../stylesheet/main.css?v=3.5" as="style">
