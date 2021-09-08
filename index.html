@@ -42,10 +42,43 @@
   gtag('config', 'G-KQVEK41ZDY');
 </script>
 <!-- InstanceBeginEditable name="head" -->
-<!--
-<script src="https://richinfo.co/richpartners/push/js/rp-cl-ob.js?pubid=799109&siteid=275422&niche=405"></script>
-<script src="https://richinfo.co/richpartners/push/js/rp_notify_http.js" id="richpartners" data-pubid="799109" data-siteid="275422" data-niche="405" charset="utf-8"></script>
--->
+<script>
+function showMonetizationState () {
+      document.getElementById('state').innerText = document.monetization.state
+    }
+
+    if (document.monetization) {
+      document.monetization.addEventListener('monetizationstop', showMonetizationState)
+      document.monetization.addEventListener('monetizationpending', showMonetizationState)
+      document.monetization.addEventListener('monetizationstart', showMonetizationState)
+    }
+
+    window.addEventListener('load', () => {
+      if (!document.monetization) {
+        document.getElementById('state').innerText = 'Not enabled in browser'
+      } else {
+        showMonetizationState()
+      }
+
+      const stopButton = document.getElementById('stop-button')
+      const startButton = document.getElementById('start-button')
+      const monetizationTag = document.querySelector('meta[name="monetization"]')
+
+      stopButton.addEventListener('click', () => {
+        monetizationTag.remove()
+
+        stopButton.disabled = true
+        startButton.disabled = false
+      })
+
+      startButton.addEventListener('click', () => {
+        document.head.appendChild(monetizationTag)
+
+        stopButton.disabled = false
+        startButton.disabled = true
+      })
+    })
+    </script>
 <script src="https://unpkg.com/@botpoison/browser"></script>
 <!-- InstanceEndEditable -->
 </head>
@@ -209,12 +242,22 @@
         </form> 
       </div>
     </section>
+      <section class="Snew_mn2"> 
+      <div class="container text_center">
+        <h2>Current Monetization State</h2>
+      <div id="loading">
+    <span id="state"></span>
+  </div>
+  <button id="stop-button">Stop Monetization</button>
+  <button id="start-button" disabled>Start Monetization</button>
+          </div>
+          </section>
     <!-- InstanceEndEditable -->
   </main>
 </div>
 <footer class="Snew_footer">
   <div class="container"> 
-    <p class="Snew_footer-copywrite"> Author - SHANI SHASHIDHARAN <!-- #BeginDate format:Sw1 -->7 September, 2021<!-- #EndDate -->
+    <p class="Snew_footer-copywrite"> Author - SHANI SHASHIDHARAN <!-- #BeginDate format:Sw1 -->8 September, 2021<!-- #EndDate -->
     </p>
     <address><p class="Snew_footer-address">Aswathy, Umayanalloor P. O, Perayam, Kollam, Kerala, India, PIN: 691589</p></address> 
     <p class="Snew_footer-email"> <a href="mailto:shanishashidharan@hotmail.com">shanishashidharan@hotmail.com</a> | <a href="documents/RESUME_shani.pdf">Download CV</a></p>
@@ -223,6 +266,7 @@
 </footer>
 <!-- InstanceBeginEditable name="footer" -->
     <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/38bbf4c1a7b7e6f13ff5ffdb4/7037d770d1848365e3db2c6c6.js");</script> 
+    
 <!-- InstanceEndEditable -->
     
 <script>
