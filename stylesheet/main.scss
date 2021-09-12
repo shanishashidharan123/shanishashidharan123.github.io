@@ -357,6 +357,17 @@
 	@include transform(translate(-50%, -50%));
 }
 
+@mixin cols($ob1){
+    .cols-#{$ob1}{
+        width: #{$ob1}#{"%"};
+        flex: 0 0 #{$ob1}#{"%"};
+        @media (max-width: 576px){
+            width: 100%;
+            flex: 0 0 100%;
+        }
+    }
+}
+
 #SNew_HDr { 
 	padding-top: 0px; 
 	padding-bottom: 52px;
@@ -435,6 +446,20 @@ body {
     #canvas, #animation_container, #dom_overlay_container{
         width: 100%!important;
         margin: auto!important;
+    }
+    .rows{
+        @include flex;
+        flex-wrap: wrap;
+        gap: 2%;
+        @include cols(29);
+        @include cols(40);
+        @include cols(50);
+        @include cols(60);
+        @include cols(69);
+        &.midrows{
+            @include align-items(center);
+            @include justify-content(center);
+        }
     }
 }
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
