@@ -358,9 +358,11 @@
 }
 
 @mixin cols($ob1){
-    .cols-#{$ob1}{
-        width: #{$ob1}#{"%"};
-        flex: 0 0 #{$ob1}#{"%"};
+    $ob2: $ob1 - 2;
+    @debug $ob2;
+    .cols-#{$ob1}{ 
+        width: #{$ob2}#{"%"};
+        flex: 0 0 #{$ob2}#{"%"};
         @media (max-width: 576px){
             width: 100%;
             flex: 0 0 100%;
@@ -451,11 +453,11 @@ body {
         @include flex;
         flex-wrap: wrap;
         gap: 2%;
-        @include cols(29);
+        @include cols(30);
         @include cols(40);
         @include cols(50);
         @include cols(60);
-        @include cols(69);
+        @include cols(70);
         &.midrows{
             @include align-items(center);
             @include justify-content(center);
