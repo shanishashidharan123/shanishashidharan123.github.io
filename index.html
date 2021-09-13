@@ -59,6 +59,23 @@ function showMonetizationState () {
       } else {
         showMonetizationState()
       }
+    const stopButton = document.getElementById('stop-button')
+      const startButton = document.getElementById('start-button')
+      const monetizationTag = document.querySelector('meta[name="monetization"]')
+
+      stopButton.addEventListener('click', () => {
+        monetizationTag.remove()
+
+        stopButton.disabled = true
+        startButton.disabled = false
+      });
+
+      startButton.addEventListener('click', () => {
+        document.head.appendChild(monetizationTag)
+
+        stopButton.disabled = false
+        startButton.disabled = true
+      });
     })
     </script>
 <script src="https://unpkg.com/@botpoison/browser"></script>
