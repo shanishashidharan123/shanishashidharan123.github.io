@@ -43,41 +43,24 @@
 </script>
 <!-- InstanceBeginEditable name="head" -->
 <script>
-function showMonetizationState () {
-      document.getElementById('state').innerText = document.monetization.state
-    }
+    let total = 0
+    let scale
 
     if (document.monetization) {
-      document.monetization.addEventListener('monetizationstop', showMonetizationState)
-      document.monetization.addEventListener('monetizationpending', showMonetizationState)
-      document.monetization.addEventListener('monetizationstart', showMonetizationState)
+      document.monetization.addEventListener('monetizationprogress', ev => {
+        // initialize currency and scale on first progress event
+        if (total === 0) {
+          scale = ev.detail.assetScale
+          document.getElementById('currency').innerText = ev.detail.assetCode
+        }
+
+        total += Number(ev.detail.amount)
+
+        const formatted = (total * Math.pow(10, -scale)).toFixed(scale)
+        document.getElementById('total').innerText = formatted
+      })
     }
-
-    window.addEventListener('load', () => {
-      if (!document.monetization) {
-        document.getElementById('state').innerText = 'Not enabled in browser'
-      } else {
-        showMonetizationState()
-      }
-    const stopButton = document.getElementById('stop-button')
-      const startButton = document.getElementById('start-button')
-      const monetizationTag = document.querySelector('meta[name="monetization"]')
-
-      stopButton.addEventListener('click', () => {
-        monetizationTag.remove()
-
-        stopButton.disabled = true
-        startButton.disabled = false
-      });
-
-      startButton.addEventListener('click', () => {
-        document.head.appendChild(monetizationTag)
-
-        stopButton.disabled = false
-        startButton.disabled = true
-      });
-    })
-    </script>
+  </script>
 <script src="https://unpkg.com/@botpoison/browser"></script>
 <!-- InstanceEndEditable -->
 </head>
@@ -253,12 +236,10 @@ function showMonetizationState () {
       <section class="Snew_mn2"> 
       <div class="container text_center">
         <h2>Current Monetization State</h2>
-      <div id="loading">
-    <span id="state"></span>
-  </div>
-          <button id="stop-button">Stop Monetization</button>
-  <button id="start-button" disabled>Start Monetization</button>
+      <p><span id="total">nothing (yet)</span>
+    <span id="currency"></span></p>
           </div>
+          
           </section>
     <!-- InstanceEndEditable -->
   </main>
