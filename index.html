@@ -1,6 +1,5 @@
 <!doctype html>
-<html lang="en">
-<!-- InstanceBegin template="/Templates/template1.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en"><!-- InstanceBegin template="/Templates/template1.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -69,7 +68,20 @@ function showMonetizationState () {
 <div id="SNew_HDr">
   <header id="Snew_hdr1">
     <div class="container">
-      <p><span class="algn_LEFT atop"><a href="about_ss.html">SHANI SHASHIDHARAN</a></span> <a href="contact_ss.html" class="atop2 algn_RIGHT">CONTACT</a></p>
+      <p><span class="algn_LEFT atop"><a href="about_ss.html">SHANI SHASHIDHARAN</a></span>
+        <button class="atop2 algn_RIGHT" id="ssTG1" onClick="ssToggle()"><span>&#8212;<br>
+        &#8212;<br>
+        &#8212;</span></button>
+      </p>
+      <div id="ss_menu1">
+        <ul>
+          <li><a href="about_ss.html">ABOUT</a></li>
+          <li><a href="works_ss.html">WORKS</a></li>
+          <li><a href="services_ss.html">SERVICES</a></li>
+          <li><a href="team_ss.html">TEAM</a></li>
+          <li><a href="contact_ss.html">CONTACT</a></li>
+        </ul>
+      </div>
     </div>
   </header>
   <main class="Snew_mn"> <!-- InstanceBeginEditable name="EditRegion1" -->
@@ -191,7 +203,7 @@ function showMonetizationState () {
           <div class="cols-70">
             <p>HTML Static Template, Editable template, HTML 5, CSS3, SCSS, jQuery, Bootstrap 4.0, Editable Logo PSD and other images PSD. Responsive modals, Ready-made editable stylesheets. Healthcare mockup theory from Indian Health Guru his very own beginner website. This Medical website is for all over India, publish worldwide, brings patients from worldwide for surgery.</p>
             <script src="https://gumroad.com/js/gumroad.js"></script> 
-            <a class="gumroad-button" href="https://gumroad.com/l/elRpO" style="color: #333333!important">Buy my product</a> </div>
+            <a class="gumroad-button btn" href="https://gumroad.com/l/elRpO" style="color: #333333!important">Buy my product</a> </div>
         </div>
         <p>Make India and abroad proud. Jai Hind!</p>
       </div>
@@ -199,9 +211,10 @@ function showMonetizationState () {
     <section class="Snew_mn2" id="donate">
       <div class="container text_center">
         <h2>Donation accepted for website design and development</h2>
-        <p>You can click the button below and start donation, you can donate upto Rs. 48,000 max.</p>
+        <p>You can click the button below and start donation, you can donate upto Rs. 50,000 max.</p>
         <!--        <div class="pm-button"><a href="https://www.payumoney.com/paybypayumoney/#/6EE2CE8365C9D39A641A706E48859ECA"><img src="https://www.payumoney.com/media/images/payby_payumoney/new_buttons/21.png" alt="Donate"></a></div>--> 
-        <!--        <div><a style="width: 135px; background-color: #237161; text-align: center; font-weight: 600; padding: 11px 0px; color: white; font-size: 12px; display: inline-block; text-decoration: none; " href="https://pmny.in/sInhxbl4DeW0">Donate Now</a></div>-->
+        <div><a style="width: 135px; background-color: #237161; text-align: center; font-weight: 600; padding: 11px 0px; color: white; font-size: 12px; display: inline-block; text-decoration: none; " href="https://pmny.in/sInhxbl4DeW0">Donate Now</a></div>
+          <p>OR donate by Razorpay</p>
         <form>
           <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_HuUOZ1H9gsydP7" async> </script>
         </form>
@@ -242,24 +255,27 @@ function showMonetizationState () {
       </div>
     </section>
     <!-- InstanceEndEditable --> </main>
+  <footer class="Snew_footer">
+    <div class="container">
+      <p class="Snew_footer-copywrite"> Author - SHANI SHASHIDHARAN <!-- #BeginDate format:Sw1 -->18 September, 2021<!-- #EndDate --> 
+      </p>
+      <address>
+      <p class="Snew_footer-address">Aswathy, Umayanalloor P. O, Perayam, Kollam, Kerala, India, PIN: 691589</p>
+      </address>
+      <p class="Snew_footer-email"> <a href="mailto:shanishashidharan@hotmail.com">shanishashidharan@hotmail.com</a> | <a href="documents/RESUME_shani.pdf">Download CV</a></p>
+      <p class="Snew_footer-address" style="font-size: 9px"><a href="index.html">Home</a> | <a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms and conditions</a> | <a href="disclaimer.html">Disclaimer</a></p>
+    </div>
+  </footer>
 </div>
-<footer class="Snew_footer">
-  <div class="container">
-    <p class="Snew_footer-copywrite"> Author - SHANI SHASHIDHARAN <!-- #BeginDate format:Sw1 -->15 September, 2021<!-- #EndDate --> 
-    </p>
-    <address>
-    <p class="Snew_footer-address">Aswathy, Umayanalloor P. O, Perayam, Kollam, Kerala, India, PIN: 691589</p>
-    </address>
-    <p class="Snew_footer-email"> <a href="mailto:shanishashidharan@hotmail.com">shanishashidharan@hotmail.com</a> | <a href="documents/RESUME_shani.pdf">Download CV</a></p>
-    <p class="Snew_footer-address" style="font-size: 9px"><a href="index.html">Home</a> | <a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms and conditions</a> | <a href="disclaimer.html">Disclaimer</a></p>
-  </div>
-</footer>
 <!-- InstanceBeginEditable name="footer" --> <!-- InstanceEndEditable --> 
 <script>
 	if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('serviceworker.js'); 
     }
+    function ssToggle(){
+        var ssbtn1 = document.getElementById("Snew_hdr1");
+        ssbtn1.classList.toggle("sshow");
+    }
 	</script>
 </body>
-<!-- InstanceEnd -->
-</html>
+<!-- InstanceEnd --></html>

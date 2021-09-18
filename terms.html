@@ -32,8 +32,8 @@
 //        }
 //    }
 </script> 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KQVEK41ZDY"></script>
+<!-- Global site tag (gtag.js) - Google Analytics --> 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KQVEK41ZDY"></script> 
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -48,11 +48,23 @@
 <div id="SNew_HDr">
   <header id="Snew_hdr1">
     <div class="container">
-      <p><span class="algn_LEFT atop"><a href="about_ss.html">SHANI SHASHIDHARAN</a></span>  <a href="contact_ss.html" class="atop2 algn_RIGHT">CONTACT</a></p>
+      <p><span class="algn_LEFT atop"><a href="about_ss.html">SHANI SHASHIDHARAN</a></span>
+        <button class="atop2 algn_RIGHT" id="ssTG1" onClick="ssToggle()"><span>&#8212;<br>
+        &#8212;<br>
+        &#8212;</span></button>
+      </p>
+      <div id="ss_menu1">
+        <ul>
+          <li><a href="about_ss.html">ABOUT</a></li>
+          <li><a href="works_ss.html">WORKS</a></li>
+          <li><a href="services_ss.html">SERVICES</a></li>
+          <li><a href="team_ss.html">TEAM</a></li>
+          <li><a href="contact_ss.html">CONTACT</a></li>
+        </ul>
+      </div>
     </div>
   </header>
-  <main class="Snew_mn">
-    <!-- InstanceBeginEditable name="EditRegion1" -->
+  <main class="Snew_mn"> <!-- InstanceBeginEditable name="EditRegion1" -->
     <section class="Snew_mn2">
       <div class="container">
         <h2>TERMS AND CONDITIONS</h2>
@@ -166,25 +178,29 @@
         <p>Please send your feedback, comments, requests for technical support by email: <strong>shanishashidharan@hotmail.com</strong>.</p>
       </div>
     </section>
-    <!-- InstanceEndEditable -->
-  </main>
+    <!-- InstanceEndEditable --> </main>
+  <footer class="Snew_footer">
+    <div class="container">
+      <p class="Snew_footer-copywrite"> Author - SHANI SHASHIDHARAN <!-- #BeginDate format:Sw1 -->18 September, 2021<!-- #EndDate --> 
+      </p>
+      <address>
+      <p class="Snew_footer-address">Aswathy, Umayanalloor P. O, Perayam, Kollam, Kerala, India, PIN: 691589</p>
+      </address>
+      <p class="Snew_footer-email"> <a href="mailto:shanishashidharan@hotmail.com">shanishashidharan@hotmail.com</a> | <a href="documents/RESUME_shani.pdf">Download CV</a></p>
+      <p class="Snew_footer-address" style="font-size: 9px"><a href="index.html">Home</a> | <a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms and conditions</a> | <a href="disclaimer.html">Disclaimer</a></p>
+    </div>
+  </footer>
 </div>
-<footer class="Snew_footer">
-  <div class="container"> 
-    <p class="Snew_footer-copywrite"> Author - SHANI SHASHIDHARAN <!-- #BeginDate format:Sw1 -->6 September, 2021<!-- #EndDate -->
-    </p>
-    <address><p class="Snew_footer-address">Aswathy, Umayanalloor P. O, Perayam, Kollam, Kerala, India, PIN: 691589</p></address> 
-    <p class="Snew_footer-email"> <a href="mailto:shanishashidharan@hotmail.com">shanishashidharan@hotmail.com</a> | <a href="documents/RESUME_shani.pdf">Download CV</a></p>
-    <p class="Snew_footer-address" style="font-size: 9px"><a href="index.html">Home</a> | <a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms and conditions</a> | <a href="disclaimer.html">Disclaimer</a></p> 
-  </div>
-</footer>
 <!-- InstanceBeginEditable name="footer" -->
     
-    <!-- InstanceEndEditable -->
-    
+    <!-- InstanceEndEditable --> 
 <script>
 	if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('serviceworker.js'); 
+    }
+    function ssToggle(){
+        var ssbtn1 = document.getElementById("Snew_hdr1");
+        ssbtn1.classList.toggle("sshow");
     }
 	</script>
 </body>
