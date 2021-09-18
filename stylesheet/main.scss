@@ -517,6 +517,9 @@ body {
                 span{
                     @include transform(rotate(-45deg));
                 }
+                @media (min-width: 961px){
+                    top: 50px;
+                }
             }
         }
     }
