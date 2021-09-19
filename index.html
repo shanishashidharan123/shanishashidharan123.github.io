@@ -257,7 +257,7 @@ function showMonetizationState () {
     <!-- InstanceEndEditable --> </main>
   <footer class="Snew_footer">
     <div class="container">
-      <p class="Snew_footer-copywrite"> Author - SHANI SHASHIDHARAN <!-- #BeginDate format:Sw1 -->18 September, 2021<!-- #EndDate --> 
+      <p class="Snew_footer-copywrite"> Author - SHANI SHASHIDHARAN <!-- #BeginDate format:Sw1 -->19 September, 2021<!-- #EndDate --> 
       </p>
       <address>
       <p class="Snew_footer-address">Aswathy, Umayanalloor P. O, Perayam, Kollam, Kerala, India, PIN: 691589</p>
@@ -267,7 +267,33 @@ function showMonetizationState () {
     </div>
   </footer>
 </div>
-<!-- InstanceBeginEditable name="footer" --> <!-- InstanceEndEditable --> 
+<!-- InstanceBeginEditable name="footer" --><!-- Messenger Chat plugin Code -->
+    <div id="fb-root"></div>
+
+    <!-- Your Chat plugin code -->
+    <div id="fb-customer-chat" class="fb-customerchat">
+    </div>
+
+    <script>
+      var chatbox = document.getElementById('fb-customer-chat');
+      chatbox.setAttribute("page_id", "264882695361330");
+      chatbox.setAttribute("attribution", "biz_inbox");
+
+      window.fbAsyncInit = function() {
+        FB.init({
+          xfbml            : true,
+          version          : 'v12.0'
+        });
+      };
+
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script> <!-- InstanceEndEditable --> 
 <script>
 	if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('serviceworker.js'); 
