@@ -463,14 +463,18 @@ body {
             @include justify-content(center);
         }
     }
-    #SNew_HDr, footer{
+    #SNew_HDr, footer, main{
         position: relative;
         z-index: 0;
     }
     #Snew_hdr1{
         position: relative;
         z-index: 1;
+        p{
+            margin: auto auto 16px auto;
+        }
         #ssTG1{
+            font-size: 13px; 
             line-height: 5px;
             padding: 6px;
             position: absolute;
@@ -478,9 +482,12 @@ body {
             height: 31px;
             top: 50%;
             margin-top: -15.5px;
+            border: 1px outset #3B3B3B;
+            @include border-radius(3px);
+            outline: none;
             span{
                 display: block;
-                transition: 0.3 all;
+                @include transition(0.3s all);
             }
         }
         #ss_menu1{
@@ -520,6 +527,11 @@ body {
                 @media (min-width: 961px){
                     top: 50px;
                 }
+            }
+        }
+        a, button{
+            &:hover{
+                text-decoration: none;
             }
         }
     }
@@ -567,14 +579,14 @@ a {
     color: #4F4F4F;
     text-decoration: none;
 }
-.container {
+.ss_container {
     max-width: 63em;
     margin-left: auto;
     margin-right: auto;
     padding-left: 24px;
     padding-right: 24px;
 }
-.container:after {
+.ss_container:after {
 	content: " ";
 	display: block;
 	clear: both
@@ -642,6 +654,7 @@ form{
 	text-transform: uppercase;
 	margin-right: 1.5625%;  
 	font-size: 100%;
+    line-height: 18px;
 }
 #SNew_HDr .atop2 {
 	font-weight: 300;
@@ -1145,7 +1158,7 @@ img.team-member-img {
 	bottom: 0em
 }
 .team-member-desc {
-	font-size: 125%;
+	font-size: 75%;
 }
 .Snew_footer {
 	padding-top: 36px;

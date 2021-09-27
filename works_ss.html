@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Works &#8212; Shani Shashidharan</title>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable --> 
 <link href="images/ss_icon.ico" rel="icon" title="Icon of shani shashidharan" type="image/x-icon" id="ss123">
 <link rel="apple-touch-icon" href="images/logo_192.png">
 <meta name="theme-color" content="#a5cafd">
@@ -43,35 +43,24 @@
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-3.4.1.min.js"></script>
 <div id="SNew_HDr">
-  <header id="Snew_hdr1" class="m-0 p-0">
-    <div class="container">
-      <nav class="navbar navbar-expand-lg align-items-center justify-content-around"> <a class="navbar-brand atop" href="index.html">SHANI SHASHIDHARAN</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon" style="color: #ffffff; background: #ff2c2c; line-height: 9px">&#8212;<br>
+  <header id="Snew_hdr1">
+    <div class="ss_container">
+      <p><span class="algn_LEFT atop"><a href="index.html">SHANI SHASHIDHARAN</a></span>
+        <button class="atop2 algn_RIGHT" id="ssTG1" onClick="ssToggle()"><span>&#8212;<br>
         &#8212;<br>
-        &#8212;</span> </button>
-        <div class="collapse navbar-collapse my-2 align-items-center justify-content-end" id="navbarSupportedContent">
-          <ul class="navbar-nav atop">
-            <li class="nav-item"> <a class="nav-link" href="about_ss.html">ABOUT</a></li>
-            <li class="nav-item"> <a class="nav-link" href="works_ss.html">WORKS</a></li>
-            <li class="nav-item"> <a class="nav-link" href="services_ss.html">SERVICES</a></li>
-            <li class="nav-item"> <a class="nav-link" href="team_ss.html">TEAM</a></li>
-            <li class="nav-item"> <a class="nav-link" href="contact_ss.html">CONTACT</a></li>
-            <!--<li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Socials
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                   <a class="dropdown-item" href="#">Facebook</a>
-                   <a class="dropdown-item" href="#">Twitter</a>
-                   <div class="dropdown-divider"></div>
-                   <a class="dropdown-item" href="#">Something else here</a>
-                </div>
-             </li>-->
-          </ul>
-        </div>
-      </nav>
+        &#8212;</span></button>
+      </p>
+      <div id="ss_menu1">
+        <ul>
+          <li><a href="about_ss.html">ABOUT</a></li>
+          <li><a href="works_ss.html">WORKS</a></li>
+          <li><a href="services_ss.html">SERVICES</a></li>
+          <li><a href="team_ss.html">TEAM</a></li>
+          <li><a href="contact_ss.html">CONTACT</a></li>
+        </ul>
+      </div>
     </div>
-  </header>
+  </header> 
   <main><!-- InstanceBeginEditable name="EditRegion1" -->
     <section class="Snew_mn2">
       <div class="container">
@@ -251,13 +240,13 @@
 </div>
 <footer class="Snew_footer">
   <div class="container">
-    <p class="Snew_footer-copywrite"> Author - SHANI SHASHIDHARAN <!-- #BeginDate format:Sw1 -->21 September, 2021<!-- #EndDate --> 
+    <p class="Snew_footer-copywrite"> Author - SHANI SHASHIDHARAN <!-- #BeginDate format:Sw1 -->27 September, 2021<!-- #EndDate --> 
     </p>
     <address>
     <p class="Snew_footer-address">Aswathy, Umayanalloor P. O, Perayam, Kollam, Kerala, India, PIN: 691589</p>
     </address>
     <p class="Snew_footer-email"> <a href="mailto:shanishashidharan@hotmail.com">shanishashidharan@hotmail.com</a> | <a href="documents/RESUME_shani.pdf">Download CV</a></p>
-    <p class="Snew_footer-address" style="font-size: 9px"><a href="index.html">Home</a> | <a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms and conditions</a> | <a href="disclaimer.html">Disclaimer</a></p>
+    <p class="Snew_footer-address" style="font-size: 11px"><a href="index.html">Home</a> | <a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms and conditions</a> | <a href="disclaimer.html">Disclaimer</a></p>
   </div>
 </footer>
 
@@ -271,6 +260,9 @@
 <script>
 	if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('serviceworker.js'); 
+    }
+    function ssToggle(){
+        $("#Snew_hdr1").toggleClass("sshow");
     }
 </script>
 </body>
