@@ -1,10 +1,10 @@
-//mixins for my own website shanishashidharan.co.in
+//mixins for my own website shanishashidharan.co.in 
 @mixin hover {  
     @include transition(color 0.6s linear); 
     &:hover {
         color: #ee2e2d;
         @include transition(color 0.6s linear);  
-    }
+    } 
     &:focus {
         color: #ee2e2d;
         @include transition(color 0s linear);     
@@ -375,9 +375,9 @@
 	padding-bottom: 52px;
 	border-bottom-width: 1px;
 	border-bottom-style: solid;
-	border-bottom-color: #E8E8E8;
+	border-bottom-color: #E8E8E8; 
 	margin-bottom: 50px;
-	background-color: #f4f4f4;
+	background-color: #CACACA; 
 }
 body {
 	font-family: sans-serif;
@@ -580,7 +580,7 @@ a {
     text-decoration: none;
 }
 .ss_container {
-    max-width: 63em;
+    max-width: 63em; 
     margin-left: auto;
     margin-right: auto;
     padding-left: 24px;
