@@ -790,6 +790,45 @@ section.Snew_mn2 {
 section.Snew_mn2 {
     padding-top: 36px;
     padding-bottom: 24px;
+    &.style1{
+        h1{
+            
+        }
+        h2{
+            font-size: 100%;
+            text-align: center;
+            display: block;
+            padding: 12px 0px 0px;
+        }
+        ul{
+            padding: 0px;
+            margin: 0px;
+            display: flex;
+            flex-wrap: wrap;
+            align-content: center;
+            justify-content: center;
+            li{
+                display: inline-block;
+                padding: 0px;
+                margin: 0px;
+                list-style: none;
+                line-height: 150%;
+                text-align: center;
+                &:after{
+                    content: "|";
+                    font-weight: bold;
+                    color: #F05931;
+                    display: inline-block;
+                    padding: 0px 6px; 
+                }
+                &:last-child{
+                    &:after{
+                        display: none; 
+                    } 
+                }
+            }
+        }
+    }
 }
 @media (min-width: 961px){
 .Snew_mn2_title {
