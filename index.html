@@ -16,7 +16,7 @@
 <!-- InstanceEndEditable -->
 <meta name="author" content="Shani Shashidharan">
 <meta name="monetization" content="$ilp.uphold.com/mGwAw7rkMqGN">
-<link rel="stylesheet preload" href="stylesheet/main.css"  as="style">
+<link rel="stylesheet preload" href="stylesheet/main.css?v=4.5"  as="style">
 <link rel="manifest" href="shanishashidharan.json">
 <script>
     var browserName=navigator.appName; 
@@ -64,7 +64,8 @@ function showMonetizationState () {
 <script src="https://unpkg.com/@botpoison/browser"></script>
 <!-- InstanceEndEditable -->
 </head>
-<body>
+<body onLoad="bganim()">
+<div id="Bganim"></div>
 <div id="SNew_HDr">
   <header id="Snew_hdr1">
     <div class="ss_container">
@@ -260,7 +261,7 @@ function showMonetizationState () {
     <!-- InstanceEndEditable --> </main>
   <footer class="Snew_footer">
     <div class="ss_container">
-      <p class="Snew_footer-copywrite"> Author - SHANI SHASHIDHARAN <!-- #BeginDate format:Sw1 -->28 September, 2021<!-- #EndDate --> 
+      <p class="Snew_footer-copywrite"> Author - SHANI SHASHIDHARAN <!-- #BeginDate format:Sw1 -->30 September, 2021<!-- #EndDate --> 
       </p>
       <address>
       <p class="Snew_footer-address">Aswathy, Umayanalloor P. O, Perayam, Kollam, Kerala, India, PIN: 691589</p>
@@ -281,6 +282,15 @@ function showMonetizationState () {
         var ssbtn1 = document.getElementById("Snew_hdr1");
         ssbtn1.classList.toggle("sshow");
     }
+	function bganim(){
+		document.getElementById("Bganim").className="fade";
+		setInterval(hide, 700);
+	} 
+	function hide(){
+		if(document.getElementById("Bganim").className="fade"){
+			document.getElementById("Bganim").style.display="none";
+		}
+	}
 	</script>
 </body>
 <!-- InstanceEnd --></html>

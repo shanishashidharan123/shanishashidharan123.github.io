@@ -28,5 +28,5 @@ function handleComplete(evt,comp) {
 
 //on load
 $(window).on("load", function(){
-    init()
+    init();
 });
