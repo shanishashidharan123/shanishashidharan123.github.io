@@ -498,6 +498,7 @@ body {
             border: 1px outset #3B3B3B;
             @include border-radius(3px);
             outline: none;
+			cursor: pointer;
             span{
                 display: block;
                 @include transition(0.3s all);
