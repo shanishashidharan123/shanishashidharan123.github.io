@@ -383,6 +383,7 @@ body {
 	font-family: sans-serif;
 	font-size: 100%;
 	margin: 0px;
+    user-select: none;
 //	min-width: 480px;
 	@media (max-width: 480px){
 		font-size: 75%; 
@@ -502,6 +503,12 @@ body {
             span{
                 display: block;
                 @include transition(0.3s all);
+            }
+            &:focus{
+                box-shadow: 3px 3px 3px #80D4D9;
+            }
+            &:active{
+                box-shadow: 3px 3px 3px #5dc9cf;
             }
         }
         #ss_menu1{
