@@ -37,6 +37,9 @@
   gtag('config', 'G-KQVEK41ZDY');
 </script>
 <!-- InstanceBeginEditable name="head" -->
+<script src="https://unpkg.com/react@18/umd/react.production.min.js" crossorigin></script>
+<script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js" crossorigin></script>
+<script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
 <!-- InstanceEndEditable -->
 </head>
 <body>
@@ -251,7 +254,7 @@
 </div>
 <footer class="Snew_footer">
   <div class="container">
-    <p class="Snew_footer-copywrite"> Author - SHANI SHASHIDHARAN <!-- #BeginDate format:Sw1 -->16 April, 2022<!-- #EndDate --> 
+    <p class="Snew_footer-copywrite"> Author - SHANI SHASHIDHARAN <!-- #BeginDate format:Sw1 -->11 May, 2022<!-- #EndDate --> 
     </p>
     <address>
     <p class="Snew_footer-address">Aswathy, Umayanalloor P. O, Perayam, Kollam, Kerala, India, PIN: 691589</p>
@@ -264,9 +267,18 @@
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <script src="js/popper.min.js"></script> 
 <script src="js/bootstrap-4.4.1.js"></script> 
-<!-- InstanceBeginEditable name="EditRegion4" --> 
+<!-- InstanceBeginEditable name="EditRegion4" -->
+    <div id="Qnotes" style="padding: 24px; color: forestgreen"></div>
 <script src="js/createjs.min.js"></script> 
 <script src="canvas1.js?1630344990534"></script> 
+<script type="text/babel">
+    function YourComponent(){
+        return (
+          <p><strong>Note:</strong> We are Contractors and Web Builders, we have no Shop, just Hire us. We take contracts to build websites at client&#8217;s/customer&#8217;s own places, offices and on Genuine data protection servers. And we are not into free service or Seva kinds, we charge at least static Rs. 16,000 to Dynamic or collaboration Rs. 60,00,000. We are professionals and do not try this at home.</p>
+        );
+    };
+    ReactDOM.render(<YourComponent />, document.getElementById('Qnotes'));
+</script>
 <!-- InstanceEndEditable --> 
 <script>
 	if ('serviceWorker' in navigator) {
