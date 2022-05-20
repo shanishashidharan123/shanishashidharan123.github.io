@@ -41,7 +41,9 @@
 
   gtag('config', 'G-KQVEK41ZDY');
 </script>
+<!-- TemplateBeginEditable name="googlesearch1" -->
 <script async src="https://cse.google.com/cse.js?cx=be0fd75c798e5833f"></script>
+<!-- TemplateEndEditable -->
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
 </head>
@@ -72,8 +74,9 @@
   </header>
   <main class="Snew_mn">
       <div class="ss_container">
+          <!-- TemplateBeginEditable name="googlesearch2" -->
       <div class="gcse-search"></div>
-          
+          <!-- TemplateEndEditable -->
       <!-- TemplateBeginEditable name="EditRegion1" --> <!-- TemplateEndEditable --></div> </main>
   <footer class="Snew_footer">
     <div class="ss_container">
