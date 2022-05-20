@@ -36,6 +36,7 @@
 
   gtag('config', 'G-KQVEK41ZDY');
 </script>
+<script async src="https://cse.google.com/cse.js?cx=be0fd75c798e5833f"></script>
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
 </head>
@@ -51,6 +52,7 @@
         &#8212;<br>
         &#8212;</span></button>
       </p>
+      <div class="gcse-search"></div>
       <div id="ss_menu1">
         <ul>
           <li><a href="../about_ss.html">ABOUT</a></li>
