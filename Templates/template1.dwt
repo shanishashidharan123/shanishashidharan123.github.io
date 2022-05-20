@@ -71,7 +71,9 @@
     </div>
   </header>
   <main class="Snew_mn">
+      <div class="ss_container">
       <div class="gcse-search"></div>
+          </div>
       <!-- TemplateBeginEditable name="EditRegion1" --> <!-- TemplateEndEditable --> </main>
   <footer class="Snew_footer">
     <div class="ss_container">
