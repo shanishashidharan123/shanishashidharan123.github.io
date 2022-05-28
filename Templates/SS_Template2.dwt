@@ -36,7 +36,6 @@
 
   gtag('config', 'G-KQVEK41ZDY');
 </script> 
-<script async src="https://cse.google.com/cse.js?cx=be0fd75c798e5833f"></script>
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
 </head>
@@ -68,9 +67,6 @@
     </div>
   </header>
   <main>
-    <div class="container">
-      <div class="gcse-search"></div>
-    </div>
     <!-- TemplateBeginEditable name="EditRegion1" -->
     <section class="jumbotron jumbotron-fluid text-center" id="Snew_mn1" style="position: relative">
       <div id="animation_container" style="position: absolute; left: 0px; right: 0px; top: auto; bottom: 0px; z-index: 0; opacity: 0.3">

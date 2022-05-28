@@ -41,9 +41,6 @@
 
   gtag('config', 'G-KQVEK41ZDY');
 </script>
-<!-- TemplateBeginEditable name="googlesearch1" -->
-<script async src="https://cse.google.com/cse.js?cx=be0fd75c798e5833f"></script>
-<!-- TemplateEndEditable -->
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
 </head>
@@ -74,13 +71,10 @@
   </header>
   <main class="Snew_mn">
       <div class="ss_container">
-          <!-- TemplateBeginEditable name="googlesearch2" -->
-      <div class="gcse-search"></div>
-          <!-- TemplateEndEditable -->
       <!-- TemplateBeginEditable name="EditRegion1" --> <!-- TemplateEndEditable --></div> </main>
   <footer class="Snew_footer">
     <div class="ss_container">
-      <p class="Snew_footer-copywrite"> Author - SHANI SHASHIDHARAN <!-- #BeginDate format:Sw1 -->21 May, 2022<!-- #EndDate --> 
+      <p class="Snew_footer-copywrite"> Author - SHANI SHASHIDHARAN <!-- #BeginDate format:Sw1 -->28 May, 2022<!-- #EndDate --> 
       </p>
       <address>
       <p class="Snew_footer-address">Aswathy, Umayanalloor P. O, Perayam, Kollam, Kerala, India, PIN: 691589</p>
