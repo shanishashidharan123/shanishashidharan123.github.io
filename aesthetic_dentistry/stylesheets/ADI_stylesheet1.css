@@ -577,7 +577,8 @@ em {
 	padding-bottom: 0em;
 	padding-left: 0em;
 	clear: both;
-    word-break: break-word;
+/*    word-break: break-word;*/
+    word-wrap: break-word;
 }
 #Title_BG {
 }
