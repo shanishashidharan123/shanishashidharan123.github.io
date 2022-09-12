@@ -107,8 +107,8 @@ function showMonetizationState () {
       <!-- InstanceBeginEditable name="EditRegion1" -->
       <section id="Snew_mn1">
         <h1 class="Snew_h1"><span class="UndrLne">Queen Elizabeth II</span> &#8212; <span class="UndrLne">21 April 1926 &#8211; 8 September 2022</span></h1>
-        <iframe style="width: 100%; height: 315px; border: 0px" src="https://www.youtube.com/embed/jNydA3VgQ7I" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe style="width: 100%; height: 315px; border: 0px" src="https://www.youtube.com/embed/9Auq9mYxFEE" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <p class="text_center">A &#8216;selfless&#8217; monarch who made Britain proud.</p>
+        <div id="YTube_v1" style="width: 100%; height: 315px; background-image: url('https://img.youtube.com/vi/mYGByWrjyFw/sddefault.jpg'); background-size: cover; background-position: center; display: flex; justify-content: center; align-items: center"><button id="YTube_b1" style="width: 115px; height: 80px; background-image: url('images/youtube.svg'); background-size: 120px auto; background-position: center; background-repeat: no-repeat; background-color: #ffffff; border: none; border-radius: 25%; cursor: pointer"></button></div>
         <h2 class="Snew_h1" style="margin-top: 55px"><span class="UndrLne">Website</span> at <span class="UndrLne">lowcost</span></h2>
         <p class="Snew_h1" id="hd_text1">We help founders, marketers, corporates, hospitals, hotels, traders, trusts and charities launch their startup ideas <span class="UndrLne">quickly</span> and <span class="UndrLne">cost-effectively</span></p>
         <p class="text_center"><strong>Note:</strong> We also undertake Government website design contracts and provide a registry in government domains (gov.in) with hosting supports, we are Contractors and Web Builders, <strong class="warning">we have no Shop, just Hire us</strong>. We take contracts to build websites at client&#8217;s/customer&#8217;s own places, offices and on Genuine data protection servers. And <span class="error">we are not into free service or Seva kinds</span>, we charge at least  Rs. 16,000 for a static website to Rs. 60,00,000 for a dynamic or collaborative website. </p>
@@ -298,7 +298,17 @@ function showMonetizationState () {
     </div>
   </footer>
 </div>
-<!-- InstanceBeginEditable name="footer" --> <!-- InstanceEndEditable --> 
+<!-- InstanceBeginEditable name="footer" -->
+<script>
+    function loadYTube_v1(){
+        var Ytube_v1 = '<iframe style="width: 100%; height: 315px; border: 0px" src="https://www.youtube.com/embed/mYGByWrjyFw" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
+        document.getElementById("YTube_v1").innerHTML=Ytube_v1;
+    }
+    const YTube_b1 = document.getElementById("YTube_b1");
+    YTube_b1.addEventListener("click", loadYTube_v1);
+//    window.onload = loadYTube_v1();
+</script>    
+<!-- InstanceEndEditable --> 
 <script>
 	if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('serviceworker.js'); 
