@@ -441,9 +441,11 @@ body {
         @include box-shadow(0px 0px 10px 0px rgba(0, 0, 0, 0.2)); 
         text-decoration: none;
         &:hover, &:focus{
+            color: #02042a;
             background-color: #ffffff;
         }
         &:active{
+            color: #02042a;
             background-color: #DBDBDB;
         }
     }
