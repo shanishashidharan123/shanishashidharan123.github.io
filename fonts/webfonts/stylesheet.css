@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Proxima Nova Alt Rg';
+    src: url('ProximaNovaA-Bold.woff2') format('woff2'),
+        url('ProximaNovaA-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Libre Bodoni';
+    src: url('LibreBodoni-Regular.woff2') format('woff2'),
+        url('LibreBodoni-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback;
+}
+

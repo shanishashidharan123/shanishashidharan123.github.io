@@ -1317,12 +1317,12 @@ img.team-member-img {
 /* Fonts */
 @font-face {
 	font-family: "Libre-Bodoni-master";
-	src: url(../fonts/Libre-Bodoni-master/fonts/OTF/LibreBodoni-Regular.otf);
+	src: url("../fonts/webfonts/LibreBodoni-Regular.woff2") format("woff2"), url("../fonts/webfonts/LibreBodoni-Regular.woff") format("woff");
 	font-display: fallback;
 }
 @font-face {
 	font-family: "Proxima Nova Alt Bold";
-	src: url(../fonts/Mark%20Simonson%20-%20Proxima%20Nova%20Alt%20Bold.otf);
+	src: url("../fonts/webfonts/ProximaNovaA-Bold.woff2") format("woff2"), url("../fonts/webfonts/ProximaNovaA-Bold.woff") format("woff");
 	font-display: fallback;
 }
 @font-face {
