@@ -1221,6 +1221,9 @@ section.Snew2 {
 }
 .team-member {
 	text-align: center;
+    h2{
+        font-size: 120%;
+    }
 }
 @media (min-width: 577px) and (max-width: 960px) {
 .team-member {
@@ -1230,7 +1233,7 @@ section.Snew2 {
 }
 @media (min-width: 961px) {
 .team-member {
-	margin-bottom: 0;
+	margin-bottom: 30px;
 	width: 30%;
 	float: left;
 }
@@ -1241,7 +1244,7 @@ section.Snew2 {
 }
 img.team-member-img {
 	display: inline-block;
-	margin-bottom: 1em;
+	margin-bottom: 0px;
 	border-radius: 100px;
 	width: 94px;
 	height: 94px;
