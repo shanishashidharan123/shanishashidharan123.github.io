@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+Website at lowcost
+WE HELP FOUNDERS, MARKETERS, CORPORATES, HOSPITALS, HOTELS, TRADERS, TRUSTS AND CHARITIES LAUNCH THEIR STARTUP IDEAS QUICKLY AND COST-EFFECTIVELY
+Note: We also undertake Government website design contracts and provide a registry in government domains (gov.in) with hosting supports, we are Contractors and Web Builders, we have no Shop, just Hire us. We take contracts to build websites at client’s/customer’s own places, offices and on Genuine data protection servers. And we are not into free service or Seva kinds, we charge at least Rs. 16,000 for a static website to Rs. 60,00,000 for a dynamic or collaborative website.
 
-You can use the [editor on GitHub](https://github.com/shanishashidharan123/oldmug/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are professionals and do not try this at home.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+HTML 4.0 TO HTML 5 CONVERSION
+Aesthetic Dentistry India, HTML 4.0 Public DTD HTML 4.01 Transitional. See a html 4.0 sample page.
 
-### Markdown
+<a href="aesthetic_dentistry" target="_blank" rel="noreferrer nofollow">SEE HTML 4.0</a><br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+See a HTML 4.01 Transitional doctype website - <a href="http://shanishashidharan.co.in/oldmug/CSNI/index.html" target="_blank" rel="noreferrer nofollow">HTML 4.01 Transitional doctype website - Cosmeticsurgerynagpurindia </a> and a little sample webpage of XHTML 1.0 Transitional doctype - <a href="http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/" target="_blank" rel="noreferrer nofollow">XHTML 1.0 Transitional doctype webpage - Maldives2india4surgery</a>.
 
-```markdown
-Syntax highlighted code block
+<a href="gamma_knife" target="_blank" rel="noreferrer nofollow">Gamma Knife Surgery India</a>, doctype HTML 4.0 converted to HTML 5 Mobile friendly responsive design with the help of Bootstrap and jQuery frameworks.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shanishashidharan123/oldmug/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Also see
+<a href="http://shanishashidharan.co.in/oldmug/CSNI/index.html" target="_blank" rel="noreferrer nofollow">HTML 4.01 Transitional doctype website - Cosmeticsurgerynagpurindia </a><br>
+<a href="http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/" target="_blank" rel="noreferrer nofollow">XHTML 1.0 Transitional doctype webpage - Maldives2india4surgery</a><br>
+<a href="aesthetic_dentistry" target="_blank" rel="noreferrer nofollow">HTML 4.01 Transitional doctype webpage - Aesthetic Dentistry India</a><br>
+<a href="gamma_knife" target="_blank" rel="noreferrer nofollow">HTML 5.0 doctype webpage - Gamma Knife Surgery India</a><br>
+<a href="relative_responsive_design.html" target="_blank">Relative Responsive Design - Cancer Surgery India</a>
