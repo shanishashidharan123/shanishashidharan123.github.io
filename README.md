@@ -5,6 +5,10 @@ Note: We also undertake Government website design contracts and provide a regist
 
 We are professionals and do not try this at home.
 
+<h2>RECENT WORKS</h2>
+
+Our average website costs approx Rs. 32,00,000 INR, (Dated: Monday, August 10, 2020) and our website works re based on PHP Admin UI Framework and Mobile friendly bootstrap, we called it as Mini Logic PHP framework, demo files will be available soon... see some of my <a href="http://shanishashidharan.co.in/works_ss.html"  target="_blank" rel="noreferrer nofollow">works online</a>.
+
 <h2>HTML 4.0 TO HTML 5 CONVERSION</h2>
 
 Aesthetic Dentistry India, HTML 4.0 Public DTD HTML 4.01 Transitional. See a html 4.0 sample page.
