@@ -1,4 +1,5 @@
 Website at lowcost
+
 WE HELP FOUNDERS, MARKETERS, CORPORATES, HOSPITALS, HOTELS, TRADERS, TRUSTS AND CHARITIES LAUNCH THEIR STARTUP IDEAS QUICKLY AND COST-EFFECTIVELY
 Note: We also undertake Government website design contracts and provide a registry in government domains (gov.in) with hosting supports, we are Contractors and Web Builders, we have no Shop, just Hire us. We take contracts to build websites at client’s/customer’s own places, offices and on Genuine data protection servers. And we are not into free service or Seva kinds, we charge at least Rs. 16,000 for a static website to Rs. 60,00,000 for a dynamic or collaborative website.
 
