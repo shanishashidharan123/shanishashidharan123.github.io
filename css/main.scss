@@ -761,7 +761,7 @@ form{
 	clear: both;
 	display: block;
 	font-weight: 400;
-	font-family: Libre-Bodoni-master, "system-ui", Arial;
+	font-family: 'Libre Bodoni', serif;
 	color: #4F4F4F;
     text-transform: uppercase;
 	padding-top: 0px;
@@ -1335,11 +1335,12 @@ img.team-member-img {
 }
 
 /* Fonts */
-@font-face {
-	font-family: "Libre-Bodoni-master";
-	src: url("../fonts/webfonts/LibreBodoni-Regular.woff2") format("woff2"), url("../fonts/webfonts/LibreBodoni-Regular.woff") format("woff");
-	font-display: fallback;
-}
+//@font-face {
+//	font-family: "Libre-Bodoni-master";
+//	src: url("../fonts/webfonts/LibreBodoni-Regular.woff2") format("woff2"), url("../fonts/webfonts/LibreBodoni-Regular.woff") format("woff");
+//	font-display: fallback;
+//}
+@import url('https://fonts.googleapis.com/css2?family=Libre+Bodoni:ital@1&display=swap');
 @font-face {
 	font-family: "Proxima Nova Alt Bold";
 	src: url("../fonts/webfonts/ProximaNovaA-Bold.woff2") format("woff2"), url("../fonts/webfonts/ProximaNovaA-Bold.woff") format("woff");
