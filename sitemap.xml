@@ -1,705 +1,1761 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-  <loc>http://www.shanishashidharan.co.in/</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/about_ss.html</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/works_ss.html</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/services_ss.html</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/team_ss.html</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/contact_ss.html</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/index.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/Maldives2india4surgery/</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/aesthetic_dentistry/</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/gamma_knife/</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/relative_responsive_design.html</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/documents/RESUME_shani.pdf</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/documents/Profile.pdf</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/index.html</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/privacy.html</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/terms.html</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/disclaimer.html</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/documents/degree_cert.pdf</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/certificates.html</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/documents/Graphic_Designs/casting.pdf</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/documents/Graphic_Designs/Antony_tower_book_brochure.pdf</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/documents/Graphic_Designs/coffee_shop.pdf</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/documents/Graphic_Designs/Antony_tower_Brochure_3fold.pdf</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/documents/Graphic_Designs/Privilege_Card_Print.pdf</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/documents/Graphic_Designs/Multi_Cuisine_Menu.pdf</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/documents/Graphic_Designs/Room_Service_Menu_Card.pdf</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/documents/Graphic_Designs/Kavery_Print4.pdf</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/documents/Graphic_Designs/winner_trophy1_Print_layout1.pdf</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/Cosmetic-surgery-treatment-nagpur-India.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Arm_Lift_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Blepharoplasty_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Botox_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Breast_Augmentation_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Breast_Lift_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Breast_Reduction_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Breast_Implant_Replacement_Removal_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Brow_Lift_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Buttock_augmentation_Enlargement_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Buttock_Lift_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Chemical_Peel_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Chin_Reduction_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Dermabrasion_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Endermologie_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Endoscopy_keyhole_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Face_Lift_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Facial_Implant_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Facial_Scar_Revision_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Forehead_Lift_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Gynecomastia_male_breast_tissue_Reduction_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Hair_Replacement_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Injectable_Fillers_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Intense_pulsed_light_treatment_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Juvederm_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Labiaplasty_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Laser_hair_removal_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Laser_Skin_Resurfacing_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Laser_Vein_treatment_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Liposuction_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Mentoplasty_Chin_Surgery_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Microdermabrasion_Skin_Rejuvenation_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Neck_Lift_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Otoplasty_Ear_Surgery_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Radiesse_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Restylane_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Rhinoplasty_Nose_Job_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Rhytidectomy_Face_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Sclerotherapy_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Thermage_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Thighplasty_Thigh_Lift_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Thread_Lift_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/procedures/Tummy_Tuck_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/Nagpur-India-Info.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/Help-Desk.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/About-CosmetiSurgeryNagpurIndia.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/comsetic_surgery_in_India.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/Cosmetic-Surgeons-Nagpur-India.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/Patient-Testimonials.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/News.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/enquiry.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/FAQs.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/Contact-Us.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/make_an_appoinment.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/plan_your_visit.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/Payment_Protocol.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/International_Patient_Videos_Nagpur_India.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/Medical-Packages.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/Hospitals-Nagpur-India.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/Patient-Testimonials-Before-After.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/Blogs.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/Press_Release.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/Useful_Information.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/Tell_a_Friend.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/terms-conditions.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/disclaimer.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/privacy-policy-travel-india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/Maldives2india4surgery/index.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/gamma_knife/index.html</loc>
-  <lastmod>2022-11-12T18:21:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/Resources.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/arm_lift_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Gynecomastia_male_breast_tissue_Reduction_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Neck_Lift_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Blepharoplasty_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Botox_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Breast_Augmentation_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Breast_Lift_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Breast_Reduction_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Breast_Implant_Replacement_Removal_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Brow_Lift_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Buttock_augmentation_Enlargement_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Buttock_Lift_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Chemical_Peel_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Chin_Reduction_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Dermabrasion_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Endermologie_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Endoscopy_keyhole_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Face_Lift_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Facial_Implant_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Facial_Scar_Revision_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Forehead_Lift_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Hair_Replacement_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Injectable_Fillers_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Intense_pulsed_light_treatment_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Juvederm_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Labiaplasty_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Laser_hair_removal_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Laser_Skin_Resurfacing_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Laser_Vein_treatment_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Liposuction_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Mentoplasty_Chin_Surgery_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Microdermabrasion_Skin_Rejuvenation_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Otoplasty_Ear_Surgery_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Radiesse_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Restylane_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Rhinoplasty_Nose_Job_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Rhytidectomy_Face_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Sclerotherapy_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Thermage_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Thighplasty_Thigh_Lift_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Thread_Lift_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.shanishashidharan.co.in/oldmug/CSNI/testimonial/Tummy_Tuck_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
-  <lastmod>2022-09-14T10:34:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-
-
+<?xml version="1.0" encoding="utf-8"?><!--Generated by Screaming Frog SEO Spider 19.4-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://shanishashidharan.co.in/</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Gamma_Knife.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/ICON.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/ss_GraphicDesigns.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/creative-cloud-logo.svg</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/services_ss.html</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Website_documentation.svg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Website_accessibility.svg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Website_analytics.svg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Website_Maintenance.svg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Website_Repair.svg</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/aesthetic_dentistry</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/index.html</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Gamma_Knife.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/ICON.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/ss_GraphicDesigns.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/creative-cloud-logo.svg</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/works_ss.html</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/3_Fold_Brochure_2.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/announcement_design.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Billboard_Design.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Book_Brochure.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Coffee_Shop_Menu.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Engagement_Card.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Facebook_post.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Flex_Billboard_Design.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Flex_Poster_Design.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/3_Fold_Brochure.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Flyer.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Flyer_Design.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Invitation_Card.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Marriage_Card.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Newspaper_Advertisement.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Newspaper_AD_BW.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Privilege_card_design.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Restaurant_Invitation_Card.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Restaurant_Menu.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Room_Service_Menu_Card.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Shop_Opening_Poster_Design.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Social_Advertisement.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Social_greetings.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Standing_MiniBar_Menu_Layout.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Trophy_Sticker.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Visiting_Card.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Wedding_Card.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/thumbs/Wedding_Complementary_Card.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Graphic_Designs/Hotel_Savithri_Brochure.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Graphic_Designs/MK_Flex.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Graphic_Designs/Engaement_card1.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Graphic_Designs/FB_Post.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Graphic_Designs/hyox_flex.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Graphic_Designs/KSEB_Younus_Banner.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Graphic_Designs/Anupama_Flyer.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Graphic_Designs/Joje_Auto_Flyer2.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Graphic_Designs/Anupama_G_Opening.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Graphic_Designs/Engaement_card2.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Graphic_Designs/ARCET_Adv_Color.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Graphic_Designs/Blue_Star.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Graphic_Designs/Kowdiar_Kitchen_G_Opening.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Graphic_Designs/SM_Fresh_Manama.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Graphic_Designs/IEC_FB_Post.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Graphic_Designs/Merry_Christmas.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Graphic_Designs/business_card.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Graphic_Designs/Marriage_Card1.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Graphic_Designs/Vivah_aashamsakal.jpg</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/gamma_knife</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/team_ss.html</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/gopakumar.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/shani.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/lekshmi.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/Anu_S_K-1.jpg</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/reactapp/</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/my_shop.html</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/relative-responsive-design.html</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/csi_relative_res-assets/w1600_h900_ss.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/csi_relative_res-assets/w1920_h1080_ss.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/csi_relative_res-assets/w2560_h1440_ss.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/csi_relative_res-assets/w1600_h900.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/csi_relative_res-assets/w1920_h1080.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/images/csi_relative_res-assets/w2560_h1440.jpg</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/Logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/m2.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/P1.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/H1.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/C1.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/h11.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/S1.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/PR1.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/A1.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/PV1.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/OP1.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/hh.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/email_bot.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/mid.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/footer_hd_bg1.gif</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/about_ss.html</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/contact_ss.html</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/index.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/CSNI/images/opnCl1_01.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/CSNI/images/opnCl1_02.gif</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/documents/RESUME_shani.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Arm_Lift_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/CSNI/images/Armlift_BeAf1.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/CSNI/images/Arm_lift_BeAf1.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/CSNI/images/Arm_lift_BeAf2.gif</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Buttock_Lift_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/Payment_Protocol.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/CSNI/images/paypal.gif</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Hair_Replacement_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Laser_hair_removal_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/terms-conditions.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Chemical_Peel_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/certificates.html</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Thread_Lift_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/images/Graphic_Designs/Antony_tower_book_brochure.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/International_Patient_Videos_Nagpur_India.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/CSNI/images/opnCl1_01.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/CSNI/images/opnCl1_02.gif</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/images/Graphic_Designs/Multi_Cuisine_Menu.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/Useful_Information.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/privacy-policy-travel-india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Brow_Lift_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Sclerotherapy_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.shanishashidharan.co.in/</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/enquiry.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/Help-Desk.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/plan_your_visit.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Breast_Lift_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/images/Graphic_Designs/winner_trophy1_Print_layout1.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Tummy_Tuck_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/Hospitals-Nagpur-India.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Restylane_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Endermologie_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/make_an_appoinment.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/Blogs.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/documents/Proof_Documents.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Thermage_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/documents/degree_cert.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/aesthetic_dentistry/</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/aesthetic_dentistry/images/head_01.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/aesthetic_dentistry/images/DBcom1.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/aesthetic_dentistry/images/arrow.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/aesthetic_dentistry/images/MenuSpcae.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/aesthetic_dentistry/images/watchVideo_01.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/aesthetic_dentistry/images/Patient-Video1.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/aesthetic_dentistry/twitter/link-icon.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/aesthetic_dentistry/twitter/facebook-icon.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/aesthetic_dentistry/twitter/twitter-icon.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/aesthetic_dentistry/twitter/youtube-icon.gif</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Chin_Reduction_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Juvederm_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/gamma_knife/</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/gamma_knife/assets/images/head_ims1_02.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/gamma_knife/assets/images/head_ims1_05.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/gamma_knife/assets/images/head_ims1_06.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/gamma_knife/assets/images/head_ims1_09.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/gamma_knife/assets/images/Gamma-knife.gif</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/comsetic_surgery_in_India.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Radiesse_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/News.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/Contact-Us.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Forehead_Lift_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/documents/Marriage_Certificate.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Breast_Implant_Replacement_Removal_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Microdermabrasion_Skin_Rejuvenation_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/disclaimer.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Otoplasty_Ear_Surgery_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.shanishashidharan.co.in/cancersurgeryindia</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/About-CosmetiSurgeryNagpurIndia.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Endoscopy_keyhole_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/CSNI/images/foreheadLift1.gif</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/images/Graphic_Designs/casting.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/Cosmetic-surgery-treatment-nagpur-India.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/CSNI/images/cosmetictraetmentindia.gif</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Blepharoplasty_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/images/Graphic_Designs/Room_Service_Menu_Card.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/Medical-Packages.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Botox_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Laser_Skin_Resurfacing_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Mentoplasty_Chin_Surgery_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/index.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/Logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/m2.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/P1.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/H1.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/C1.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/h11.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/S1.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/PR1.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/A1.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/PV1.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/OP1.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/hh.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/email_bot.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/mid.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/images/footer_hd_bg1.gif</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/Nagpur-India-Info.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Injectable_Fillers_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Dermabrasion_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/FAQs.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Labiaplasty_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Neck_Lift_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/CSNI/images/Necklift1.gif</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Breast_Reduction_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/Cosmetic-Surgeons-Nagpur-India.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Rhytidectomy_Face_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/documents/work_exp_certs.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Buttock_augmentation_Enlargement_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/Patient-Testimonials.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Thighplasty_Thigh_Lift_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/images/Graphic_Designs/coffee_shop.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Facial_Scar_Revision_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/Patient-Testimonials-Before-After.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Rhinoplasty_Nose_Job_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Face_Lift_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/images/Graphic_Designs/Privilege_Card_Print.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/Press_Release.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/images/Graphic_Designs/Antony_tower_Brochure_3fold.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Liposuction_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/images/Graphic_Designs/Kavery_Layout.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Intense_pulsed_light_treatment_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Facial_Implant_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Laser_Vein_treatment_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/CSNI/images/IPL_Lef_veins.gif</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Gynecomastia_male_breast_tissue_Reduction_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/CSNI/images/gynecomastia1.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/CSNI/images/gynecomastia2.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/CSNI/images/gynecomastia3.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/CSNI/images/gynecomastia4.gif</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/Tell_a_Friend.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/procedures/Breast_Augmentation_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Laser_Skin_Resurfacing_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Buttock_augmentation_Enlargement_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Endoscopy_keyhole_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Labiaplasty_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Thighplasty_Thigh_Lift_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Dermabrasion_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Microdermabrasion_Skin_Rejuvenation_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Laser_Vein_treatment_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Forehead_Lift_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Rhytidectomy_Face_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Thermage_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Radiesse_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Liposuction_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Endermologie_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Breast_Augmentation_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Thread_Lift_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Otoplasty_Ear_Surgery_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Gynecomastia_male_breast_tissue_Reduction_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/CSNI/images/gynecomastia1.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/CSNI/images/gynecomastia3.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/CSNI/images/gynecomastia2.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/CSNI/images/gynecomastia4.gif</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Restylane_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Buttock_Lift_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Neck_Lift_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/CSNI/images/Necklift1.gif</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Facial_Implant_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Breast_Reduction_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Blepharoplasty_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/arm_lift_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/CSNI/images/Armlift_BeAf1.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/CSNI/images/Arm_lift_BeAf1.gif</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/oldmug/CSNI/images/Arm_lift_BeAf2.gif</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Face_Lift_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Brow_Lift_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Laser_hair_removal_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/gamma_knife/index.html</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/gamma_knife/assets/images/head_ims1_02.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/gamma_knife/assets/images/head_ims1_05.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/gamma_knife/assets/images/head_ims1_06.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/gamma_knife/assets/images/head_ims1_09.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://shanishashidharan.co.in/gamma_knife/assets/images/Gamma-knife.gif</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Intense_pulsed_light_treatment_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Mentoplasty_Chin_Surgery_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Chemical_Peel_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Gamma_Knife.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/ICON.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/ss_GraphicDesigns.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/creative-cloud-logo.svg</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Facial_Scar_Revision_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Juvederm_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/aesthetic_dentistry/bettina_peters.html</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Botox_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/cancersurgeryindia</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Hair_Replacement_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Breast_Lift_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://shanishashidharan.co.in/documents/certificates.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Rhinoplasty_Nose_Job_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/Resources.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Breast_Implant_Replacement_Removal_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Sclerotherapy_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Injectable_Fillers_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Chin_Reduction_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/oldmug/CSNI/testimonial/Tummy_Tuck_before_after_photos_cosmetic_surgery_nagpur_india.html</loc>
+    <lastmod>2022-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/works_ss.html</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/3_Fold_Brochure_2.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/announcement_design.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Billboard_Design.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Book_Brochure.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Coffee_Shop_Menu.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Engagement_Card.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Facebook_post.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Flex_Billboard_Design.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Flex_Poster_Design.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/3_Fold_Brochure.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Flyer.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Flyer_Design.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Invitation_Card.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Marriage_Card.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Newspaper_Advertisement.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Newspaper_AD_BW.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Privilege_card_design.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Restaurant_Invitation_Card.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Restaurant_Menu.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Room_Service_Menu_Card.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Shop_Opening_Poster_Design.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Social_Advertisement.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Social_greetings.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Standing_MiniBar_Menu_Layout.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Trophy_Sticker.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Visiting_Card.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Wedding_Card.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/thumbs/Wedding_Complementary_Card.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Graphic_Designs/Hotel_Savithri_Brochure.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Graphic_Designs/MK_Flex.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Graphic_Designs/Engaement_card1.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Graphic_Designs/FB_Post.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Graphic_Designs/hyox_flex.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Graphic_Designs/KSEB_Younus_Banner.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Graphic_Designs/Anupama_Flyer.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Graphic_Designs/Joje_Auto_Flyer2.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Graphic_Designs/Anupama_G_Opening.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Graphic_Designs/Engaement_card2.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Graphic_Designs/ARCET_Adv_Color.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Graphic_Designs/Blue_Star.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Graphic_Designs/Kowdiar_Kitchen_G_Opening.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Graphic_Designs/SM_Fresh_Manama.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Graphic_Designs/IEC_FB_Post.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Graphic_Designs/Merry_Christmas.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Graphic_Designs/business_card.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Graphic_Designs/Marriage_Card1.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Graphic_Designs/Vivah_aashamsakal.jpg</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/index.html</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Gamma_Knife.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/ICON.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/ss_GraphicDesigns.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/creative-cloud-logo.svg</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/gamma_knife</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/my_shop.html</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/services_ss.html</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Website_documentation.svg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Website_accessibility.svg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Website_analytics.svg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Website_Maintenance.svg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Website_Repair.svg</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/contact_ss.html</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/aesthetic_dentistry</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/cancersurgeryindia/</loc>
+    <lastmod>2022-11-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/cancersurgeryindia/images/Logo-assets/Logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/cancersurgeryindia/images/Header_feature1-assets/feature1.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/cancersurgeryindia/images/Cancer-assets/dividing_cancer_cell.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/cancersurgeryindia/images/Cancer-assets/genetic_test_help.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/cancersurgeryindia/images/Cancer-assets/cancer_treatment.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/cancersurgeryindia/images/Cancer-assets/Emotions_and_cancer.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/cancersurgeryindia/images/Cancer-assets/advanced_cancer.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/cancersurgeryindia/images/Cancer-assets/healthcare_services.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/cancersurgeryindia/images/Cancer-assets/covid-19_corona.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/cancersurgeryindia/images/patient_edu-assets/Childhood_Cancer.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/cancersurgeryindia/images/Connect_Chemists-assets/Connect_with_Chemists.jpg</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/documents/RESUME_shani.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/team_ss.html</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/gopakumar.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/shani.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/lekshmi.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/Anu_S_K-1.jpg</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/relative-responsive-design.html</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/csi_relative_res-assets/w1600_h900_ss.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/csi_relative_res-assets/w1920_h1080_ss.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/csi_relative_res-assets/w2560_h1440_ss.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/csi_relative_res-assets/w1600_h900.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/csi_relative_res-assets/w1920_h1080.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/images/csi_relative_res-assets/w2560_h1440.jpg</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/about_ss.html</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/gamma_knife/</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/images/Graphic_Designs/coffee_shop.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/images/Graphic_Designs/Room_Service_Menu_Card.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/images/Graphic_Designs/Antony_tower_Brochure_3fold.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/documents/degree_cert.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/images/Graphic_Designs/casting.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/images/Graphic_Designs/Privilege_Card_Print.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/images/Graphic_Designs/Antony_tower_book_brochure.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/images/Graphic_Designs/Kavery_Layout.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/aesthetic_dentistry/</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/cancersurgeryindia/index.html</loc>
+    <lastmod>2022-11-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/cancersurgeryindia/images/Logo-assets/Logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/cancersurgeryindia/images/Header_feature1-assets/feature1.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/cancersurgeryindia/images/Cancer-assets/dividing_cancer_cell.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/cancersurgeryindia/images/Cancer-assets/genetic_test_help.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/cancersurgeryindia/images/Cancer-assets/cancer_treatment.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/cancersurgeryindia/images/Cancer-assets/Emotions_and_cancer.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/cancersurgeryindia/images/Cancer-assets/advanced_cancer.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/cancersurgeryindia/images/Cancer-assets/healthcare_services.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/cancersurgeryindia/images/Cancer-assets/covid-19_corona.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/cancersurgeryindia/images/patient_edu-assets/Childhood_Cancer.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>http://shanishashidharan.co.in/cancersurgeryindia/images/Connect_Chemists-assets/Connect_with_Chemists.jpg</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/certificates.html</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/images/Graphic_Designs/winner_trophy1_Print_layout1.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shanishashidharan.co.in/images/Graphic_Designs/Multi_Cuisine_Menu.pdf</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
