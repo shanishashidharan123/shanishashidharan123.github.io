@@ -1129,7 +1129,7 @@
 
     };
 
-    //Plugin.prototype.enableSwipe = function () {
+    Plugin.prototype.enableSwipe = function () {
     //  var _this = this;
     //  var startCoords = 0;
     //  var endCoords = 0;
@@ -1166,7 +1166,7 @@
     //    });
     //  }
 //
-    //};
+    };
 
     Plugin.prototype.enableDrag = function () {
       var _this = this;
