@@ -126,7 +126,7 @@
       this.hideBarTimeout = false;
 
       // To determine browser supports for touch events;
-      this.isTouch = ('ontouchstart' in document.documentElement);
+      //this.isTouch = ('ontouchstart' in document.documentElement);
 
       // Disable hideControlOnEnd if sildeEndAnimation is true
       if (this.s.slideEndAnimatoin) {
@@ -1129,44 +1129,44 @@
 
     };
 
-    Plugin.prototype.enableSwipe = function () {
-      var _this = this;
-      var startCoords = 0;
-      var endCoords = 0;
-      var isMoved = false;
-
-      if (_this.s.enableSwipe && _this.doCss()) {
-
-        _this.$slide.on('touchstart.lg', function (e) {
-          if (!_this.$outer.hasClass('lg-zoomed') && !_this.lgBusy) {
-            e.preventDefault();
-            _this.manageSwipeClass();
-            startCoords = e.originalEvent.targetTouches[0].pageX;
-          }
-        });
-
-        _this.$slide.on('touchmove.lg', function (e) {
-          if (!_this.$outer.hasClass('lg-zoomed')) {
-            e.preventDefault();
-            endCoords = e.originalEvent.targetTouches[0].pageX;
-            _this.touchMove(startCoords, endCoords);
-            isMoved = true;
-          }
-        });
-
-        _this.$slide.on('touchend.lg', function () {
-          if (!_this.$outer.hasClass('lg-zoomed')) {
-            if (isMoved) {
-              isMoved = false;
-              _this.touchEnd(endCoords - startCoords);
-            } else {
-              _this.$el.trigger('onSlideClick.lg');
-            }
-          }
-        });
-      }
-
-    };
+    //Plugin.prototype.enableSwipe = function () {
+    //  var _this = this;
+    //  var startCoords = 0;
+    //  var endCoords = 0;
+    //  var isMoved = false;
+//
+    //  if (_this.s.enableSwipe && _this.doCss()) {
+//
+    //    _this.$slide.on('touchstart.lg', function (e) {
+    //      if (!_this.$outer.hasClass('lg-zoomed') && !_this.lgBusy) {
+    //        e.preventDefault();
+    //        _this.manageSwipeClass();
+    //        startCoords = e.originalEvent.targetTouches[0].pageX;
+    //      }
+    //    });
+//
+    //    _this.$slide.on('touchmove.lg', function (e) {
+    //      if (!_this.$outer.hasClass('lg-zoomed')) {
+    //        e.preventDefault();
+    //        endCoords = e.originalEvent.targetTouches[0].pageX;
+    //        _this.touchMove(startCoords, endCoords);
+    //        isMoved = true;
+    //      }
+    //    });
+//
+    //    _this.$slide.on('touchend.lg', function () {
+    //      if (!_this.$outer.hasClass('lg-zoomed')) {
+    //        if (isMoved) {
+    //          isMoved = false;
+    //          _this.touchEnd(endCoords - startCoords);
+    //        } else {
+    //          _this.$el.trigger('onSlideClick.lg');
+    //        }
+    //      }
+    //    });
+    //  }
+//
+    //};
 
     Plugin.prototype.enableDrag = function () {
       var _this = this;
