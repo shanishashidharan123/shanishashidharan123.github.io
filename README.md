@@ -29,12 +29,18 @@ Also see
 
 <h2>Relative Responsive Design</h2>
 
-A relative responsive design for higher screens (browser width more than 1366px), using relative CSS units like %, em and vw. See the comparison to common responsive design below.
+A relative responsive design optimized for larger screens (starting from a browser width of 1366px) and adjusting responsively for screen widths greater than 1366px. This design uses relative CSS units like %, em, and vw, including relative font sizes, to ensure flexibility and scalability across various screen sizes. It provides a more fluid and dynamic layout compared to traditional fixed-width designs.
 
-<h3>WATCH THE NEW RELATIVELY RESPONSIVE CANCER SURGERY INDIA HTML5 LAYOUT</h3>
+<h3>Introducing the New Relatively Responsive Cancer Surgery India HTML5 Layout</h3>
 
-Design made for desktop displays 1366px and to higher screens starting from 1367px. Tested in some common higher screens for e.g. 1920×1080, 1440×900, 1536×864, 2560×1440, 1680×1050, 1792×1120, 1600×900, etc. Design for mobile displays till 240px. Test in iPad, iPad Pro, iPad Air, and iPad Mini tablet displays and also test Google Analytics and optimise for your resolution sizes.
+This design is tailored for desktop displays starting at 1366px and adapts smoothly for larger screens such as 1920x1080, 1440x900, 1536x864, 2560x1440, 1680x1050, 1792x1120, 1600x900, and others. It is tested on a variety of common higher-resolution screens and is optimized for mobile displays down to 240px. The layout is also tested and optimized for tablet displays such as the iPad, iPad Pro, iPad Air, and iPad Mini, adjusting for each device's resolution size.
 
-Web design consists of Bootstrap 4.4.1, jQuery 3.4.1, responsive canvas animation screen with the help of CreateJs and HTML5 canvas action scripts from Adobe Animate CC.
+Web Design Features:
+
+Built with Bootstrap 4.4.1 for responsive design.
+Integrated jQuery 3.4.1 for interactive elements.
+Features a responsive canvas animation screen powered by CreateJS and HTML5 canvas action scripts from Adobe Animate CC.
+
+By using relative CSS units like %, em, and vw—along with relative font sizes—this responsive design ensures optimal scalability across both larger screens (greater than 1366px) and smaller screens down to 240px. The relative font sizes ensure text remains readable and appropriately scaled, providing a consistent and user-friendly experience across all devices. This approach guarantees that the design remains flexible, visually appealing, and highly functional for a wide range of screen sizes and resolutions.
 
 <a href="http://shanishashidharan.co.in/cancersurgeryindia/" target="_blank">Relative Responsive Webpage Design</a>
