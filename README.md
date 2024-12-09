@@ -35,11 +35,12 @@ A relative responsive design optimized for larger screens (starting from a brows
 
 This design is tailored for desktop displays starting at 1366px and adapts smoothly for larger screens such as 1920x1080, 1440x900, 1536x864, 2560x1440, 1680x1050, 1792x1120, 1600x900, and others. It is tested on a variety of common higher-resolution screens and is optimized for mobile displays down to 240px. The layout is also tested and optimized for tablet displays such as the iPad, iPad Pro, iPad Air, and iPad Mini, adjusting for each device's resolution size.
 
-Web Design Features:
-
-Built with Bootstrap 4.4.1 for responsive design.
-Integrated jQuery 3.4.1 for interactive elements.
-Features a responsive canvas animation screen powered by CreateJS and HTML5 canvas action scripts from Adobe Animate CC.
+<h3>Web Design Features:</h3>
+<ul>
+	<li>Built with Bootstrap 4.4.1 for responsive design.</li>
+	<li>Integrated jQuery 3.4.1 for interactive elements.</li>
+	<li>Features a responsive canvas animation screen powered by <a href="https://createjs.com/" target="_blank" rel="noreferrer nofollow">CreateJs</a> and HTML5 canvas action scripts from Adobe Animate CC.</li>
+</ul>
 
 By using relative CSS units like %, em, and vw—along with relative font sizes—this responsive design ensures optimal scalability across both larger screens (greater than 1366px) and smaller screens down to 240px. The relative font sizes ensure text remains readable and appropriately scaled, providing a consistent and user-friendly experience across all devices. This approach guarantees that the design remains flexible, visually appealing, and highly functional for a wide range of screen sizes and resolutions.
 
