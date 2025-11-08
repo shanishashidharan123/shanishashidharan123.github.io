@@ -980,10 +980,13 @@ section.Snew2 {
 	padding-bottom: 48px
 }
 }
+.Snew2-items{
+	column-count: 3;
+    width: 100%;
+}
 .Snew2-item {
-	width: 80.20833%;
+	break-inside: avoid-column;
     min-height: 320px; 
-	float: left;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -1011,7 +1014,6 @@ section.Snew2 {
 }
 @media (min-width: 768px) and (max-width: 960px) {
 .Snew2-item {
-	width: 46.875%;
 	float: left;
 	margin-left: 1.5625%;
 	margin-right: 1.5625%
@@ -1019,8 +1021,6 @@ section.Snew2 {
 }
 @media (min-width: 961px) {
 .Snew2-item {
-	width: 30.20833%;
-	float: left;
 	margin-left: 1.5625%;
 	margin-right: 1.5625%
 }
