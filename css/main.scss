@@ -994,6 +994,12 @@ section.Snew2 {
 .Snew2-items{
 	column-count: 3;
     width: 100%;
+	@media (max-width: 991px){
+		column-count: 2;
+	}
+	@media (max-width: 576px){
+		column-count: 1;
+	}
 }
 .Snew2-item {
 	break-inside: avoid-column;
