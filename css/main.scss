@@ -384,7 +384,7 @@ body {
 	font-size: 100%;
 	margin: 0px;
     word-wrap: break-word;
-    user-select: none;
+    user-select: text;
 //	min-width: 480px;
 	@media (max-width: 480px){
 		font-size: 75%; 
